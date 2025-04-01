@@ -1,0 +1,18 @@
+[
+  "minecraft:zombie-100-0-0",
+  "minecraft:zombie{HandItems:[{id:iron_sword,Count:1}]}-20-60-0",
+  "minecraft:zombie{HandItems:[{id:iron_axe,Count:1}]}-20-60-0",
+  "minecraft:zombie_villager-5-20-0",
+  "minecraft:zombie_villager{HandItems:[{id:iron_sword,Count:1}]}-1-60-0",
+  "minecraft:zombie_villager{HandItems:[{id:iron_axe,Count:1}]}-1-60-0",
+  "minecraft:husk-50-20-0",
+  "minecraft:husk{HandItems:[{id:golden_sword,Count:1}]}-10-20-0",
+  "minecraft:husk{HandItems:[{id:golden_axe,Count:1}]}-10-20-0",
+  "minecraft:drowned-50-40-0",
+  "minecraft:drowned{HandItems:[{id:trident,Count:1}]}-10-60-0",
+  "minecraft:drowned{HandItems:[{id:'easy_emerald:copper_sword',Count:1}]}-10-60-0",
+  "minecraft:drowned{HandItems:[{id:'easy_emerald:copper_axe',Count:1}]}-10-60-0",
+  "minecraft:drowned{HandItems:[{id:trident,Count:1}]}-1-60-0",
+  "minecraft:zombie_horse{Passengers:[{id:drowned,HandItems:[{id:trident,Count:1}]}]}-5-40-0",
+  "minecraft:giant-1-120-0"
+]

@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ABA",
+        "PGS",
+        "EAE"
+    ],
+    "key": {
+        "G": {
+            "item": "minecraft:ghast_tear"
+        },
+        "A": {
+            "item": "minecraft:arrow"
+        },
+        "B": {
+            "item": "minecraft:bow"
+        },
+        "E": {
+            "item": "minecraft:emerald"
+        },
+        "P": {
+            "item": "minecraft:blaze_powder"
+        },
+        "S": {
+            "item": "minecraft:sugar"
+        }
+    },
+    "result": {
+        "count": 1,
+        "id": "illagerinvasion:provoker_spawn_egg"
+    }
+}

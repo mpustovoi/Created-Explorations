@@ -1,0 +1,455 @@
+{
+  "type": "entity",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "empty",
+          "weight": 99
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:diamond_boots",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_components",
+              "components": {
+                "minecraft:max_damage": 393,
+                "minecraft:fire_resistant": {},
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:feather_falling": 8,
+                    "minecraft:fire_protection": 4,
+                    "minecraft:projectile_protection": 2,
+                    "minecraft:binding_curse": 1
+                  }
+                },
+                "minecraft:attribute_modifiers": [
+                  {
+                    "id": "armor",
+                    "type": "generic.armor",
+                    "amount": 4,
+                    "operation": "add_value",
+                    "slot": "feet"
+                  },
+                  {
+                    "id": "armor_toughness",
+                    "type": "generic.armor_toughness",
+                    "amount": 2.5,
+                    "operation": "add_value",
+                    "slot": "feet"
+                  },
+                  {
+                    "id": "attack_knockback",
+                    "type": "generic.attack_knockback",
+                    "amount": 0.2,
+                    "operation": "add_value",
+                    "slot": "feet"
+                  },
+                  {
+                    "id": "max_health",
+                    "type": "generic.max_health",
+                    "amount": 4,
+                    "operation": "add_value",
+                    "slot": "feet"
+                  }
+                ],
+                "minecraft:trim": {
+                  "material": "minecraft:lapis",
+                  "pattern": "minecraft:silence"
+                }
+              }
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "color": "dark_blue",
+                  "fallback": "Boots of Silence",
+                  "italic": false,
+                  "translate": "item.uncraftable.boots_of_silence"
+                }
+              ],
+              "target": "item_name"
+            },
+            {
+              "function": "set_lore",
+              "lore": [
+                {
+                  "color": "dark_blue",
+                  "fallback": "Echoing",
+                  "italic": false,
+                  "translate": "item.uncraftable.boots_of_silence.lore"
+                },
+                {
+                  "color": "red",
+                  "italic": false,
+                  "text": "pack.uncraftable.name"
+                }
+              ],
+              "mode": "append"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "empty",
+          "weight": 99
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:diamond_leggings",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_components",
+              "components": {
+                "minecraft:max_damage": 368,
+                "minecraft:fire_resistant": {},
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:fire_protection": 4,
+                    "minecraft:projectile_protection": 2,
+                    "minecraft:swift_sneak": 5,
+                    "minecraft:binding_curse": 1
+                  }
+                },
+                "minecraft:attribute_modifiers": [
+                  {
+                    "id": "armor",
+                    "type": "generic.armor",
+                    "amount": 8,
+                    "operation": "add_value",
+                    "slot": "legs"
+                  },
+                  {
+                    "id": "armor_toughness",
+                    "type": "generic.armor_toughness",
+                    "amount": 2.5,
+                    "operation": "add_value",
+                    "slot": "legs"
+                  },
+                  {
+                    "id": "attack_knockback",
+                    "type": "generic.attack_knockback",
+                    "amount": 0.2,
+                    "operation": "add_value",
+                    "slot": "legs"
+                  },
+                  {
+                    "id": "max_health",
+                    "type": "generic.max_health",
+                    "amount": 8,
+                    "operation": "add_value",
+                    "slot": "legs"
+                  }
+                ],
+                "minecraft:trim": {
+                  "material": "minecraft:lapis",
+                  "pattern": "minecraft:silence"
+                }
+              }
+            },
+            {
+              "function": "set_damage",
+              "damage": {
+                "min": 0.1,
+                "max": 0.2
+              }
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "color": "dark_blue",
+                  "fallback": "Greaves of Silence",
+                  "italic": false,
+                  "translate": "item.uncraftable.greaves_of_silence"
+                }
+              ],
+              "target": "item_name"
+            },
+            {
+              "function": "set_lore",
+              "lore": [
+                {
+                  "color": "dark_blue",
+                  "fallback": "Echoing",
+                  "italic": false,
+                  "translate": "item.uncraftable.greaves_of_silence.lore"
+                },
+                {
+                  "color": "red",
+                  "fallback": "© Uncraftables",
+                  "italic": false,
+                  "translate": "pack.uncraftable.name"
+                }
+              ],
+              "mode": "append"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "empty",
+          "weight": 99
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:diamond_hoe",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_components",
+              "components": {
+                "minecraft:max_damage": 1161,
+                "minecraft:fire_resistant": {},
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:looting": 4,
+                    "minecraft:smite": 8,
+                    "minecraft:fortune": 6,
+                    "minecraft:silk_touch": 1
+                  }
+                },
+                "minecraft:attribute_modifiers": [
+                  {
+                    "id": "attack_damage",
+                    "type": "generic.attack_damage",
+                    "amount": 18.8,
+                    "operation": "add_value",
+                    "slot": "mainhand"
+                  },
+                  {
+                    "id": "attack_speed",
+                    "type": "generic.attack_speed",
+                    "amount": -3.32,
+                    "operation": "add_value",
+                    "slot": "mainhand"
+                  }
+                ]
+              }
+            },
+            {
+              "function": "set_damage",
+              "damage": {
+                "min": 0.1,
+                "max": 0.2
+              }
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "color": "dark_blue",
+                  "fallback": "Ancient Scythe",
+                  "italic": false,
+                  "translate": "item.uncraftable.silent_scythe"
+                }
+              ],
+              "target": "item_name"
+            },
+            {
+              "function": "set_lore",
+              "lore": [
+                {
+                  "color": "dark_blue",
+                  "fallback": "Echoing",
+                  "italic": false,
+                  "translate": "item.uncraftable.silent_scythe.lore"
+                },
+                {
+                  "color": "red",
+                  "fallback": "© Uncraftables",
+                  "italic": false,
+                  "translate": "pack.uncraftable.name"
+                }
+              ],
+              "mode": "append"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:sculk_shrieker",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_components",
+              "components": {
+                "minecraft:block_state": {
+                  "can_summon": "true"
+                }
+              }
+            },
+            {
+              "function": "set_lore",
+              "lore": [
+                {
+                  "color": "dark_gray",
+                  "fallback": "Can Summon",
+                  "italic": false,
+                  "translate": "item.uncraftable.sculk_shrieker.lore"
+                }
+              ],
+              "mode": "append"
+            }
+          ]
+        }        ,
+        {
+          "type": "item",
+          "weight": 99,
+          "name": "minecraft:sculk_shrieker",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            },
+						{
+							"count": {
+								"type": "minecraft:uniform",
+								"min": 0.0,
+								"max": 1.0
+							},
+							"enchantment": "minecraft:looting",
+							"function": "minecraft:enchanted_count_increase"
+						}
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "item",
+          "weight": 3,
+          "name": "minecraft:sculk",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 2,
+                "max": 4
+              }
+            },
+						{
+							"count": {
+								"type": "minecraft:uniform",
+								"min": 0.0,
+								"max": 2.0
+							},
+							"enchantment": "minecraft:looting",
+							"function": "minecraft:enchanted_count_increase"
+						}
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:sculk_sensor",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+						{
+							"count": {
+								"type": "minecraft:uniform",
+								"min": 0.0,
+								"max": 1.0
+							},
+							"enchantment": "minecraft:looting",
+							"function": "minecraft:enchanted_count_increase"
+						}
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "item",
+          "weight": 4,
+          "name": "minecraft:bone_block",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 2,
+                "max": 4
+              }
+            },
+						{
+							"count": {
+								"type": "minecraft:uniform",
+								"min": 0.0,
+								"max": 1.0
+							},
+							"enchantment": "minecraft:looting",
+							"function": "minecraft:enchanted_count_increase"
+						}
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:sculk_catalyst",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            },
+						{
+							"count": {
+								"type": "minecraft:uniform",
+								"min": 0.0,
+								"max": 1.0
+							},
+							"enchantment": "minecraft:looting",
+							"function": "minecraft:enchanted_count_increase"
+						}
+          ]
+        }
+      ]
+    }
+  ]
+}

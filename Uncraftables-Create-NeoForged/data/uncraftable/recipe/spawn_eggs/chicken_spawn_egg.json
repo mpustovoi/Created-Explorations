@@ -1,0 +1,22 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "GRG",
+        "RAR",
+        "GRG"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:ghast_tear"
+        },
+        "G": {
+            "item": "minecraft:feather"
+        },
+        "R": {
+            "item": "minecraft:chicken"
+        }
+    },
+    "result": {
+        "id": "minecraft:chicken_spawn_egg"
+    }
+}

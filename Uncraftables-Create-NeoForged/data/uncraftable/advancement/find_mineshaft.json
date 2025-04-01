@@ -1,0 +1,42 @@
+{
+  "parent": "minecraft:story/upgrade_tools",
+  "display": {
+    "description": {
+      "translate": "advancements.uncraftable.find_mineshaft.descr",
+      "fallback": "Find an Abandoned Mineshaft"
+    },
+    "icon": {
+      "id": "minecraft:rail"
+    },
+    "title": {
+      "translate": "advancements.uncraftable.find_mineshaft.title",
+      "fallback": "The Lost Tunnels"
+    }
+  },
+  "criteria": {
+    "mineshaft": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "#minecraft:mineshaft"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "mineshaft"
+    ]
+  ],
+  "rewards": {
+    "experience": 50
+  }
+}

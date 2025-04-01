@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:beacon"
+  },
+  "result": {
+    "id": "minecraft:nether_star",
+    "count": 1
+  }
+}

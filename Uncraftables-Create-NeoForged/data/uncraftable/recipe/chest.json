@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WWW",
+        "W W",
+        "WWW"
+    ],
+    "key": {
+        "W": {
+            "tag": "minecraft:logs"
+        }
+    },
+    "result": {
+        "count": 4,
+        "id": "minecraft:chest"
+    }
+}

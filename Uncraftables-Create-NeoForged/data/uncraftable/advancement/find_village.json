@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:story/upgrade_tools",
+  "display": {
+    "description": {
+      "translate": "advancements.uncraftable.find_village.descr",
+      "fallback": "Visit the First Village"
+    },
+    "icon": {
+      "id": "minecraft:filled_map"
+    },
+    "title": {
+      "translate": "advancements.uncraftable.find_village.title",
+      "fallback": "Finally, Some Civilization!"
+    }
+  },
+  "criteria": {
+    "village": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "#minecraft:village"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [["village"]],
+  "rewards": {
+    "experience": 50
+  }
+}

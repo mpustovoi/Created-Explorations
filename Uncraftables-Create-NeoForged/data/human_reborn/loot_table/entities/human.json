@@ -1,0 +1,63 @@
+{
+  "type": "entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "empty",
+          "weight": 19
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_components",
+              "components": {
+                "minecraft:rarity": "uncommon",
+                "minecraft:attribute_modifiers": [
+                  {
+                    "id": "armor",
+                    "type": "generic.armor",
+                    "amount": 1,
+                    "operation": "add_value",
+                    "slot": "armor"
+                  }
+                ],
+                "minecraft:note_block_sound": "minecraft:entity.player.hurt"
+              }
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "fallback": "Steve's Head",
+                  "translate": "item.human_reborn.steves-head"
+                }
+              ],
+              "target": "item_name"
+            },
+            {
+              "function": "set_lore",
+              "lore": [
+                {
+                  "color": "red",
+                  "fallback": "Uncraftables",
+                  "italic": false,
+                  "translate": "pack.uncraftable.name"
+                }
+              ],
+              "mode": "append"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

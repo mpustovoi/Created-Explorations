@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:amethyst_block"
+    },
+    {
+      "item": "minecraft:budding_amethyst"
+    }
+  ],
+  "result": {
+    "id": "minecraft:amethyst_shard",
+    "count": 4
+  }
+}
