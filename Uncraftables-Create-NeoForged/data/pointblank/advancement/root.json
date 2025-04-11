@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:story/smelt_iron",
+  "display": {
+    "icon": {
+      "item": "pointblank:printer"
+    },
+    "title": {
+      "translate": "advancements.pointblank.root.title",
+      "fallback": "This is Where the Fun Begins"
+    },
+    "description": {
+      "translate": "advancements.pointblank.root.descr",
+      "fallback": "Obtain a Weapon Printer"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "get_printer": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["pointblank:printer"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 50
+  }
+}

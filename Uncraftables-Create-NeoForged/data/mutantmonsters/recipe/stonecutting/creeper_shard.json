@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "mutantmonsters:creeper_minion_tracker"
+  },
+  "result": {
+    "id": "mutantmonsters:creeper_shard",
+    "count": 1
+  }
+}

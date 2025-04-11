@@ -1,0 +1,47 @@
+{
+  "type": "entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "weight": 6,
+          "name": "minecraft:netherite_upgrade_smithing_template",
+          "functions": [
+            {
+              "count": {
+                "min": 0,
+                "max": 1,
+                "type": "minecraft:uniform"
+              },
+              "enchantment": "minecraft:looting",
+              "function": "minecraft:enchanted_count_increase"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 25,
+          "name": "minecraft:rib_armor_trim_smithing_template",
+          "functions": [
+            {
+              "count": {
+                "min": 0,
+                "max": 1,
+                "type": "minecraft:uniform"
+              },
+              "enchantment": "minecraft:looting",
+              "function": "minecraft:enchanted_count_increase"
+            }
+          ]
+        },
+        {
+          "type": "empty",
+          "weight": 19
+        }
+      ]
+    }
+  ],
+  "random_sequence": "minecraft:entities/wither"
+}

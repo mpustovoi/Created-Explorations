@@ -1,18 +1,15 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "#  ",
-        " XX"
-    ],
-    "key": {
-        "#": {
-            "item": "minecraft:tripwire_hook"
-        },
-        "X": {
-            "item": "minecraft:paper"
-        }
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["SS", "PS"],
+  "key": {
+    "S": {
+      "item": "minecraft:string"
     },
-    "result": {
-        "id": "minecraft:name_tag"
+    "P": {
+      "item": "minecraft:paper"
     }
+  },
+  "result": {
+    "id": "minecraft:name_tag"
+  }
 }

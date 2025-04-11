@@ -5,10 +5,12 @@
       "id": "minecraft:filled_map"
     },
     "title": {
-      "translate": "advancements.all_villages.title"
+      "translate": "advancements.all_villages.title",
+      "fallback": "Town Tourist"
     },
     "description": {
-      "translate": "advancements.all_villages.description"
+      "translate": "advancements.all_villages.description",
+      "fallback": "Visit all 5 village types!"
     },
     "frame": "goal",
     "show_toast": true,

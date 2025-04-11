@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "dried_ghast:harness"
+    },
+    {
+      "item": "minecraft:cyan_dye"
+    }
+  ],
+  "result": {
+    "id": "dried_ghast:cyan_harness",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "logbegone": {
+    "phrases": [
+      "Disconnecting VANILLA connection attempt",
+      "Channels ",
+      "GL_INVALID_OPERATION error generated",
+      "GL_INVALID_VALUE error generated"
+    ],
+    "regex": [
+      "Disconnecting VANILLA connection attempt",
+      "Channels ",
+      "GL_INVALID_OPERATION error generated",
+      "GL_INVALID_VALUE error generated"
+    ]
+  }
+}

@@ -1,7 +1,7 @@
 {
     "type": "minecraft:smithing_transform",
     "base": {
-        "item": "minecraft:wooden_axe"
+        "item": "minecraft:golden_axe"
     },
     "addition": {
         "item": "minecraft:stone"
@@ -10,6 +10,6 @@
         "id": "minecraft:stone_axe"
     },
     "template": {
-        "item": "minecraft:stick"
+        "item": "minecraft:gold_nugget"
     }
 }

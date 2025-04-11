@@ -1,0 +1,35 @@
+{
+  "parent": "pointblank:root",
+  "display": {
+    "icon": {
+      "item": "pointblank:workstation"
+    },
+    "title": {
+      "translate": "advancements.pointblank.workstation.title",
+      "fallback": "Lord of War"
+    },
+    "description": {
+      "translate": "advancements.pointblank.workstation.descr",
+      "fallback": "Get a Weapon Workbench"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "get_workstation": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["pointblank:workstation"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 50
+  }
+}

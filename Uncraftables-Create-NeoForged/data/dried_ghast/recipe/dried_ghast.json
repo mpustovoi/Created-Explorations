@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["TTT", "TBT", "TTT"],
+  "key": {
+    "B": {
+      "item": "minecraft:bone_block"
+    },
+    "T": {
+      "item": "minecraft:ghast_tear"
+    }
+  },
+  "result": {
+    "id": "dried_ghast:dried_ghast",
+    "count": 1
+  }
+}

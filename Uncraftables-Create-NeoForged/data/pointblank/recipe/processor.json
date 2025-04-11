@@ -1,0 +1,46 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": false,
+  "category": "misc",
+  "pattern": [
+    "MSM",
+    "GQG",
+    "ACA"
+  ],
+  "key": {
+    "M": [
+      {
+        "item": "pointblank:gunmetal_nugget"
+      }
+    ],
+    "C": [
+      {
+        "item": "create:copper_sheet"
+      }
+    ],
+    "G": [
+      {
+        "item": "create:golden_sheet"
+      }
+    ],
+    "Q": [
+      {
+        "item": "create:rose_quartz"
+      }
+    ],
+    "A": [
+      {
+        "item": "minecraft:amethyst_shard"
+      }
+    ],
+    "S": [
+      {
+        "item": "minecraft:glass_pane"
+      }
+    ]
+  },
+  "result": {
+    "id": "pointblank:processor",
+    "count": 1
+  }
+}

@@ -5,10 +5,12 @@
       "id": "minecraft:map"
     },
     "title": {
-      "translate": "advancements.first_village.title"
+      "translate": "advancements.first_village.title",
+      "fallback": "First Village"
     },
     "description": {
-      "translate": "advancements.first_village.description"
+      "translate": "advancements.first_village.description",
+      "fallback": "Find a village"
     },
     "frame": "task",
     "show_toast": true,

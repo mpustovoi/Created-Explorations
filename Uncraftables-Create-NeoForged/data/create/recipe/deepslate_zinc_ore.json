@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "item": "minecraft:deepslate"
+    },
+    "O": {
+      "item": "create:raw_zinc"
+    }
+  },
+  "pattern": ["OOO", "OSO", "OOO"],
+  "result": {
+    "id": "create:deepslate_zinc_ore",
+    "count": 1
+  }
+}

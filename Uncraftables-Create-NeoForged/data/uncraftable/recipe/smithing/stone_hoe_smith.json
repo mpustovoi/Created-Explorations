@@ -1,7 +1,7 @@
 {
     "type": "minecraft:smithing_transform",
     "base": {
-        "item": "minecraft:wooden_hoe"
+        "item": "minecraft:golden_hoe"
     },
     "addition": {
         "item": "minecraft:stone"
@@ -10,6 +10,6 @@
         "id": "minecraft:stone_hoe"
     },
     "template": {
-        "item": "minecraft:stick"
+        "item": "minecraft:gold_nugget"
     }
 }

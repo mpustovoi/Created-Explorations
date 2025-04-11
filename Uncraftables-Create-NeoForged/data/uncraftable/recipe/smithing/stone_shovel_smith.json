@@ -1,7 +1,7 @@
 {
     "type": "minecraft:smithing_transform",
     "base": {
-        "item": "minecraft:wooden_shovel"
+        "item": "minecraft:golden_shovel"
     },
     "addition": {
         "item": "minecraft:stone"
@@ -10,6 +10,6 @@
         "id": "minecraft:stone_shovel"
     },
     "template": {
-        "item": "minecraft:stick"
+        "item": "minecraft:gold_nugget"
     }
 }

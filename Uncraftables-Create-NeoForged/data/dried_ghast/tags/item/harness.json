@@ -1,0 +1,68 @@
+{
+  "values": [
+    {
+      "id": "dried_ghast:black_harness",
+      "required": false
+    },
+    {
+      "id": "dried_ghast:blue_harness",
+      "required": false
+    },
+    {
+      "id": "dried_ghast:brown_harness",
+      "required": false
+    },
+    {
+      "id": "dried_ghast:cyan_harness",
+      "required": false
+    },
+    {
+      "id": "dried_ghast:gray_harness",
+      "required": false
+    },
+    {
+      "id": "dried_ghast:green_harness",
+      "required": false
+    },
+    {
+      "id": "dried_ghast:light_blue_harness",
+      "required": false
+    },
+    {
+      "id": "dried_ghast:light_gray_harness",
+      "required": false
+    },
+    {
+      "id": "dried_ghast:lime_harness",
+      "required": false
+    },
+    {
+      "id": "dried_ghast:magenta_harness",
+      "required": false
+    },
+    {
+      "id": "dried_ghast:orange_harness",
+      "required": false
+    },
+    {
+      "id": "dried_ghast:pink_harness",
+      "required": false
+    },
+    {
+      "id": "dried_ghast:purple_harness",
+      "required": false
+    },
+    {
+      "id": "dried_ghast:red_harness",
+      "required": false
+    },
+    {
+      "id": "dried_ghast:white_harness",
+      "required": false
+    },
+    {
+      "id": "dried_ghast:yellow_harness",
+      "required": false
+    }
+  ]
+}
