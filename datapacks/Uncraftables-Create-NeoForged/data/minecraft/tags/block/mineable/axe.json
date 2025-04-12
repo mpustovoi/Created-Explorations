@@ -1,9 +1,13 @@
 {
   "values": [
+    "#minecraft:beds",
+    "#minecraft:candles",
+    "minecraft:cactus",
     "minecraft:creeper_head",
     "minecraft:creeper_wall_head",
     "minecraft:dragon_head",
     "minecraft:dragon_wall_head",
+    "minecraft:honeycomb_block",
     "minecraft:piglin_head",
     "minecraft:piglin_wall_head",
     "minecraft:player_head",

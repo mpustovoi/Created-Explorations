@@ -1,5 +1,7 @@
 {
   "values": [
+    "#minecraft:candle_cakes",
+    "minecraft:cake",
     {
       "id": "travelersbackpack:snow",
       "required": false
