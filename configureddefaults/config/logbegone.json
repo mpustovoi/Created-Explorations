@@ -3,14 +3,16 @@
     "phrases": [
       "Disconnecting VANILLA connection attempt",
       "Channels ",
-      "GL_INVALID_OPERATION error generated",
-      "GL_INVALID_VALUE error generated"
+      "Failed to add slimed layer to entity",
+      "[tacz/]: Molang is not supported: ",
+      "[mixin/]: Reference map "
     ],
     "regex": [
-      "Disconnecting VANILLA connection attempt",
-      "Channels ",
-      "GL_INVALID_OPERATION error generated",
-      "GL_INVALID_VALUE error generated"
+      ".*GL_INVALID_(OPERATION|VALUE) error generated.*",
+      ".*Could not apply (rainbow color|radiation glow) layer to.*",
+      ".*Invalid statistic in.*Don't know what.*is.*",
+      ".*Tried to load unrecognized recipe.*removed now.*",
+      ".*Ignored advancement.*it doesn't exist anymore.*"
     ]
   }
 }
