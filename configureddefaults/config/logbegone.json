@@ -5,7 +5,8 @@
       "Channels ",
       "Failed to add slimed layer to entity",
       "[tacz/]: Molang is not supported: ",
-      "[mixin/]: Reference map "
+      "[mixin/]: Reference map ",
+      "Attempting to upload a closed texture"
     ],
     "regex": [
       ".*GL_INVALID_(OPERATION|VALUE) error generated.*",
