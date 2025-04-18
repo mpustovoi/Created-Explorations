@@ -52,7 +52,7 @@
 
 - 🌟 [**Sparkles**](https://modrinth.com/resourcepack/sparkles) — для **Incendium**
 - 🛩 [**Create Immersive Aircrafts**](https://www.curseforge.com/minecraft/texture-packs/create-immersive-aircrafts-resource-pack), объединённый с [**Create Immersive Aircraft: Warship**](https://www.curseforge.com/minecraft/texture-packs/create-immersive-aircraft-warship) для полной интеграции с **Create**.
-- 🌲 Текстуры и другие ресурсы для [**The Creeper's Code**]
+- 🌲 Текстуры и другие ресурсы для [**The Creeper's Code**](https://modrinth.com/datapack/the-creepers-code)
 - ⏹ Пользовательский набор ресурсов с правками локализации и иконками мобов (основанными на [**Icon Xaero's**](https://modrinth.com/resourcepack/icon-xaeros)), включающий:
   - [**Unique Spawn Eggs**](https://www.planetminecraft.com/texture-pack/1-13-1-16-unique-spawn-eggs)
   - [**Unique Spawn Eggs Add-on**](https://modrinth.com/resourcepack/unique-spawn-eggs-add-on)
@@ -110,7 +110,7 @@
 
 - 🌟 [**Sparkles**](https://modrinth.com/resourcepack/sparkles) — for **Incendium**
 - 🛩 [**Create Immersive Aircrafts**](https://www.curseforge.com/minecraft/texture-packs/create-immersive-aircrafts-resource-pack) combined with [**Create Immersive Aircraft: Warship**](https://www.curseforge.com/minecraft/texture-packs/create-immersive-aircraft-warship) for full integration with **Create**.
-- 🌲 [**The Creeper's Code**]'s textures & other resources
+- 🌲 [**The Creeper's Code**](https://modrinth.com/datapack/the-creepers-code)'s textures & other resources
 - ⏹ Custom resource pack with localization tweaks and mob icons (based on [**Icon Xaero's**](https://modrinth.com/resourcepack/icon-xaeros)), that includes:
   - [**Unique Spawn Eggs**](https://www.planetminecraft.com/texture-pack/1-13-1-16-unique-spawn-eggs)
   - [**Unique Spawn Eggs Add-on**](https://modrinth.com/resourcepack/unique-spawn-eggs-add-on)
