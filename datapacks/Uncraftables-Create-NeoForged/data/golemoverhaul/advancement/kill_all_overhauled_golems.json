@@ -1,0 +1,161 @@
+{
+  "parent": "golemoverhaul:kill_overhauled_golem",
+  "display": {
+    "description": {
+      "translate": "advancements.golemoverhaul.kill_all_overhauled_creepers.descr",
+      "fallback": "Kill all the Overhauled Golems"
+    },
+    "icon": {
+      "id": "minecraft:jack_o_lantern"
+    },
+    "title": {
+      "translate": "advancements.golemoverhaul.kill_all_overhauled_creepers.title",
+      "fallback": "Golems Overhauled"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "golemoverhaul:barrel_golem": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "golemoverhaul:barrel_golem"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "golemoverhaul:candle_golem": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "golemoverhaul:candle_golem"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "golemoverhaul:coal_golem": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "golemoverhaul:coal_golem"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "golemoverhaul:hay_golem": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "golemoverhaul:hay_golem"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "golemoverhaul:honey_golem": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "golemoverhaul:honey_golem"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "golemoverhaul:kelp_golem": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "golemoverhaul:kelp_golem"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "golemoverhaul:netherite_golem": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "golemoverhaul:netherite_golem"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "golemoverhaul:slime_golem": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "golemoverhaul:slime_golem"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "golemoverhaul:terracotta_golem": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "golemoverhaul:terracotta_golem"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    }
+  },
+  "requirements": [
+    ["golemoverhaul:barrel_golem"],
+    ["golemoverhaul:candle_golem"],
+    ["golemoverhaul:coal_golem"],
+    ["golemoverhaul:hay_golem"],
+    ["golemoverhaul:honey_golem"],
+    ["golemoverhaul:kelp_golem"],
+    ["golemoverhaul:netherite_golem"],
+    ["golemoverhaul:slime_golem"],
+    ["golemoverhaul:terracotta_golem"]
+  ],
+  "rewards": {
+    "experience": 750
+  }
+}

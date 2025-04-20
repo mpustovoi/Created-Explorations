@@ -1,26 +1,22 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "III",
-        "TGT",
-        "ETE"
-    ],
-    "key": {
-        "I": {
-            "item": "minecraft:blue_ice"
-        },
-        "E": {
-            "item": "minecraft:emerald"
-        },
-        "T": {
-            "item": "friendsandfoes:totem_of_freezing"
-        },
-        "G": {
-            "item": "minecraft:ghast_tear"
-        }
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["III", "TGT", "ETE"],
+  "key": {
+    "I": {
+      "item": "minecraft:blue_ice"
     },
-    "result": {
-        "count": 1,
-        "id": "friendsandfoes:iceologer_spawn_egg"
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "T": {
+      "item": "friendsandfoes:totem_of_freezing"
+    },
+    "G": {
+      "item": "minecraft:ghast_tear"
     }
+  },
+  "result": {
+    "count": 1,
+    "id": "friendsandfoes:iceologer_spawn_egg"
+  }
 }

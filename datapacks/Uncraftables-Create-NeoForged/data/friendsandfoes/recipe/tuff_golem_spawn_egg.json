@@ -1,31 +1,27 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "GPG",
-        "TWT",
-        "GTG"
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["GPG", "TWT", "GTG"],
+  "key": {
+    "P": [
+      {
+        "item": "minecraft:carved_pumpkin"
+      },
+      {
+        "item": "minecraft:jack_o_lantern"
+      }
     ],
-    "key": {
-        "P": [
-            {
-                "item": "minecraft:carved_pumpkin"
-            },
-            {
-                "item": "minecraft:jack_o_lantern"
-            }
-        ],
-        "W": {
-            "tag": "minecraft:wool"
-        },
-        "T": {
-            "item": "minecraft:tuff"
-        },
-        "G": {
-            "item": "minecraft:ghast_tear"
-        }
+    "W": {
+      "tag": "minecraft:wool"
     },
-    "result": {
-        "count": 1,
-        "id": "friendsandfoes:tuff_golem_spawn_egg"
+    "T": {
+      "item": "minecraft:tuff"
+    },
+    "G": {
+      "item": "minecraft:ghast_tear"
     }
+  },
+  "result": {
+    "count": 1,
+    "id": "friendsandfoes:tuff_golem_spawn_egg"
+  }
 }

@@ -1,26 +1,22 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "MMM",
-        "MGM",
-        "BCB"
-    ],
-    "key": {
-        "M": {
-            "item": "minecraft:moss_block"
-        },
-        "C": {
-            "item": "minecraft:moss_carpet"
-        },
-        "B": {
-            "item": "minecraft:glow_berries"
-        },
-        "G": {
-            "item": "minecraft:ghast_tear"
-        }
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["MMM", "MGM", "BCB"],
+  "key": {
+    "M": {
+      "item": "minecraft:moss_block"
     },
-    "result": {
-        "count": 1,
-        "id": "friendsandfoes:glare_spawn_egg"
+    "C": {
+      "item": "minecraft:moss_carpet"
+    },
+    "B": {
+      "item": "minecraft:glow_berries"
+    },
+    "G": {
+      "item": "minecraft:ghast_tear"
     }
+  },
+  "result": {
+    "count": 1,
+    "id": "friendsandfoes:glare_spawn_egg"
+  }
 }
