@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:netherite_axe"
+  },
+  "addition": {
+    "item": "minecraft:obsidian"
+  },
+  "result": {
+    "id": "easy_emerald:obsidian_axe"
+  },
+  "template": {
+    "item": "minecraft:obsidian"
+  }
+}

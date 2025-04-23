@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SSS",
+        "SSS"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:snow"
+        }
+    },
+    "result": {
+        "count": 48,
+        "id": "minecraft:snow"
+    }
+}

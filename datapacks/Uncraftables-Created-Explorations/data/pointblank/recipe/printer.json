@@ -1,0 +1,63 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": false,
+  "category": "misc",
+  "pattern": [
+    "IIIII",
+    "ICNGI",
+    "SMSPM",
+    "IG#AI",
+    "IIIII"
+  ],
+  "key": {
+    "I": [
+      {
+        "item": "pointblank:gunmetal_ingot"
+      }
+    ],
+    "M": [
+      {
+        "item": "pointblank:gunmetal_nugget"
+      }
+    ],
+    "P": [
+      {
+        "item": "pointblank:processor"
+      }
+    ],
+    "A": [
+      {
+        "item": "create:adjustable_chain_gearshift"
+      }
+    ],
+    "G": [
+      {
+        "item": "create:golden_sheet"
+      }
+    ],
+    "N": [
+      {
+        "item": "create:nozzle"
+      }
+    ],
+    "#": [
+      {
+        "item": "create:sturdy_sheet"
+      }
+    ],
+    "S": [
+      {
+        "item": "minecraft:glass_pane"
+      }
+    ],
+    "C": [
+      {
+        "item": "minecraft:coal"
+      }
+    ]
+  },
+  "result": {
+    "id": "pointblank:printer",
+    "count": 1
+  }
+}

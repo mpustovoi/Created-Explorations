@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#B#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:end_crystal"
+        },
+        "B": {
+            "item": "minecraft:bedrock"
+        }
+    },
+    "result": {
+        "count": 8,
+        "id": "minecraft:structure_void"
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["BBB", "BEB", "BBB"],
+  "key": {
+    "E": {
+      "item": "minecraft:creeper_spawn_egg"
+    },
+    "B": {
+      "item": "minecraft:diamond_block"
+    }
+  },
+  "result": {
+    "id": "ore_creeper:diamond_creeper_spawn_egg",
+    "count": 1
+  }
+}

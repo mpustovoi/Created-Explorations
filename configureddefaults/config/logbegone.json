@@ -3,17 +3,32 @@
     "phrases": [
       "Disconnecting VANILLA connection attempt",
       "Channels ",
-      "Failed to add slimed layer to entity",
-      "[tacz/]: Molang is not supported: ",
-      "[mixin/]: Reference map ",
-      "Attempting to upload a closed texture"
+      "Molang is not supported",
+      "Reference map ",
+      "Registering config factory",
+      "GL_INVALID_OPERATION",
+      "GL_INVALID_VALUE",
+      "add slimed layer",
+      "apply rainbow color layer",
+      "apply radiation glow layer",
+      "Invalid statistic",
+      "Tried to load unrecognized recipe",
+      "Ignored advancement"
     ],
     "regex": [
-      ".*GL_INVALID_(OPERATION|VALUE) error generated.*",
-      ".*Could not apply (rainbow color|radiation glow) layer to.*",
-      ".*Invalid statistic in.*Don't know what.*is.*",
-      ".*Tried to load unrecognized recipe.*removed now.*",
-      ".*Ignored advancement.*it doesn't exist anymore.*"
+      "Disconnecting VANILLA connection attempt",
+      "Channels ",
+      "Molang is not supported",
+      "Reference map ",
+      "Registering config factory",
+      "GL_INVALID_OPERATION",
+      "GL_INVALID_VALUE",
+      "add slimed layer",
+      "apply rainbow color layer",
+      "apply radiation glow layer",
+      "Invalid statistic",
+      "Tried to load unrecognized recipe",
+      "Ignored advancement"
     ]
   }
 }

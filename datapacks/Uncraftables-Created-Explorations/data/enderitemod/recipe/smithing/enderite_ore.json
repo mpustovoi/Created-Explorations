@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "enderitemod:cracked_enderite_ore"
+  },
+  "addition": {
+    "item": "enderitemod:enderite_scrap"
+  },
+  "result": {
+    "id": "enderitemod:enderite_ore"
+  },
+  "template": {
+    "item": "enderitemod:enderite_scrap"
+  }
+}

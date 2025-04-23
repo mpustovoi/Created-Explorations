@@ -1,0 +1,77 @@
+{
+  "type": "minecraft:smelting",
+  "group": "iron_ingot",
+  "ingredient": [
+    {
+      "item": "supplementaries:iron_gate"
+    },
+    {
+      "item": "supplementaries:candle_holder"
+    },
+    {
+      "item": "supplementaries:candle_holder_black"
+    },
+    {
+      "item": "supplementaries:candle_holder_blue"
+    },
+    {
+      "item": "supplementaries:candle_holder_brown"
+    },
+    {
+      "item": "supplementaries:candle_holder_cyan"
+    },
+    {
+      "item": "supplementaries:candle_holder_gray"
+    },
+    {
+      "item": "supplementaries:candle_holder_green"
+    },
+    {
+      "item": "supplementaries:candle_holder_light_blue"
+    },
+    {
+      "item": "supplementaries:candle_holder_light_gray"
+    },
+    {
+      "item": "supplementaries:candle_holder_lime"
+    },
+    {
+      "item": "supplementaries:candle_holder_magenta"
+    },
+    {
+      "item": "supplementaries:candle_holder_orange"
+    },
+    {
+      "item": "supplementaries:candle_holder_pink"
+    },
+    {
+      "item": "supplementaries:candle_holder_purple"
+    },
+    {
+      "item": "supplementaries:candle_holder_red"
+    },
+    {
+      "item": "supplementaries:candle_holder_soul"
+    },
+    {
+      "item": "supplementaries:candle_holder_ender"
+    },
+    {
+      "item": "supplementaries:candle_holder_cupric"
+    },
+    {
+      "item": "supplementaries:candle_holder_spectacle"
+    },
+    {
+      "item": "supplementaries:candle_holder_white"
+    },
+    {
+      "item": "supplementaries:candle_holder_yellow"
+    }
+  ],
+  "result": {
+    "id": "minecraft:iron_ingot"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

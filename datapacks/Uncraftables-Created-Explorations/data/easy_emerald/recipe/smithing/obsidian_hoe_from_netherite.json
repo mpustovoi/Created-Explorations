@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:netherite_hoe"
+  },
+  "addition": {
+    "item": "minecraft:obsidian"
+  },
+  "result": {
+    "id": "easy_emerald:obsidian_hoe"
+  },
+  "template": {
+    "item": "minecraft:obsidian"
+  }
+}

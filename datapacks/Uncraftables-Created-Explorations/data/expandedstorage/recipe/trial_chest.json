@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "I": {
+      "item": "minecraft:copper_ingot"
+    },
+    "C": {
+      "item": "expandedstorage:copper_chest"
+    },
+    "T": {
+      "item": "minecraft:chiseled_tuff"
+    }
+  },
+  "pattern": ["III", "TCT", "TTT"],
+  "result": {
+    "id": "expandedstorage:trial_chest",
+    "count": 1
+  }
+}

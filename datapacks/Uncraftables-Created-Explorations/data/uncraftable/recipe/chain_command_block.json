@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            {
+                "item": "minecraft:repeating_command_block"
+            },
+            {
+                "item": "minecraft:command_block"
+            }
+        ],
+        {
+            "item": "minecraft:chain"
+        }
+    ],
+    "result": {
+        "id": "minecraft:chain_command_block"
+    }
+}
