@@ -25,10 +25,6 @@
       "trigger": "minecraft:inventory_changed"
     }
   },
-  "requirements": [
-    [
-      "emerald_pickaxe"
-    ]
-  ],
+  "requirements": [["emerald_pickaxe"]],
   "sends_telemetry_event": true
 }

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "expandedstorage:present_minecart"
+    }
+  ],
+  "result": {
+    "id": "expandedstorage:present",
+    "count": 1
+  }
+}

@@ -7,7 +7,6 @@
     "item": "minecraft:detector_rail"
   },
   "result": {
-    "id": "minecraft:iron_nugget",
-    "count": 1
+    "id": "minecraft:iron_nugget"
   }
 }

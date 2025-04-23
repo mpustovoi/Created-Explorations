@@ -1,11 +1,9 @@
 {
   "type": "minecraft:smelting",
+  "group": "iron_ingot",
   "ingredient": [
     {
-      "item": "minecraft:compass"
-    },
-    {
-      "item": "minecraft:recovery_compass"
+      "item": "brewinandchewin:keg"
     }
   ],
   "result": {

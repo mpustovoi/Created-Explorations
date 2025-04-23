@@ -1,0 +1,10 @@
+{
+  "values": [
+    "minecraft:rotten_flesh",
+    "#c:foods/raw_meat",
+    {
+      "id": "mynethersdelight:hoglin_loin",
+      "required": false
+    }
+  ]
+}

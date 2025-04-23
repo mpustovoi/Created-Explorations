@@ -56,12 +56,7 @@
     }
   },
   "requirements": [
-    [
-      "copper_helmet",
-      "copper_chestplate",
-      "copper_leggings",
-      "copper_boots"
-    ]
+    ["copper_helmet", "copper_chestplate", "copper_leggings", "copper_boots"]
   ],
   "sends_telemetry_event": true
 }

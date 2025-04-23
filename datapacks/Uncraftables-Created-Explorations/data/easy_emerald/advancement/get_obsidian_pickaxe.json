@@ -27,11 +27,7 @@
       "trigger": "minecraft:inventory_changed"
     }
   },
-  "requirements": [
-    [
-      "obsidian_pickaxe"
-    ]
-  ],
+  "requirements": [["obsidian_pickaxe"]],
   "rewards": {
     "experience": 50
   },

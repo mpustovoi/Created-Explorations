@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "group": "iron_ingot",
+  "ingredient": {
+    "item": "easy_emerald:iron_treeaxe"
+  },
+  "result": {
+    "id": "minecraft:iron_ingot"
+  },
+  "experience": 1.0,
+  "cookingtime": 1800
+}

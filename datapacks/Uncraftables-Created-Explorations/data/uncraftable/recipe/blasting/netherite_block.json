@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:blasting",
+  "group": "netherite_block",
+  "ingredient": [
+    {
+      "item": "minecraft:bedrock"
+    },
+    {
+      "item": "minecraft:command_block"
+    }
+  ],
+  "result": {
+    "id": "minecraft:netherite_block"
+  },
+  "experience": 0.1,
+  "cookingtime": 14400
+}

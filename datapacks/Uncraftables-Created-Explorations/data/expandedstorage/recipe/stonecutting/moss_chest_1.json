@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "expandedstorage:moss_chest_minecart"
+    }
+  ],
+  "result": {
+    "id": "expandedstorage:moss_chest",
+    "count": 1
+  }
+}

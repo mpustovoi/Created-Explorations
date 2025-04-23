@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "expandedstorage:gold_chest_minecart"
+    }
+  ],
+  "result": {
+    "id": "expandedstorage:gold_chest",
+    "count": 1
+  }
+}

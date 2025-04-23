@@ -56,12 +56,7 @@
     }
   },
   "requirements": [
-    [
-      "ruby_helmet",
-      "ruby_chestplate",
-      "ruby_leggings",
-      "ruby_boots"
-    ]
+    ["ruby_helmet", "ruby_chestplate", "ruby_leggings", "ruby_boots"]
   ],
   "sends_telemetry_event": true
 }

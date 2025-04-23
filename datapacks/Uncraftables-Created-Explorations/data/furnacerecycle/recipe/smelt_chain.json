@@ -7,7 +7,6 @@
     "item": "minecraft:chain"
   },
   "result": {
-    "id": "minecraft:iron_ingot",
-    "count": 1
+    "id": "minecraft:iron_ingot"
   }
 }

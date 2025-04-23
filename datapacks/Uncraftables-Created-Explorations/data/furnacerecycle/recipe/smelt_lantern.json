@@ -8,7 +8,6 @@
     { "item": "minecraft:soul_lantern" }
   ],
   "result": {
-    "id": "minecraft:iron_nugget",
-    "count": 1
+    "id": "minecraft:iron_nugget"
   }
 }

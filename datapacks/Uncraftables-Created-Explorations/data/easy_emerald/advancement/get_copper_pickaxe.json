@@ -25,10 +25,6 @@
       "trigger": "minecraft:inventory_changed"
     }
   },
-  "requirements": [
-    [
-      "copper_pickaxe"
-    ]
-  ],
+  "requirements": [["copper_pickaxe"]],
   "sends_telemetry_event": true
 }

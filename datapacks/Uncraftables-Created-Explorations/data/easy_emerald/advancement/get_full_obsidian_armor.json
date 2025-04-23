@@ -36,11 +36,7 @@
       "trigger": "minecraft:inventory_changed"
     }
   },
-  "requirements": [
-    [
-      "obsidian_armor"
-    ]
-  ],
+  "requirements": [["obsidian_armor"]],
   "rewards": {
     "experience": 125
   },

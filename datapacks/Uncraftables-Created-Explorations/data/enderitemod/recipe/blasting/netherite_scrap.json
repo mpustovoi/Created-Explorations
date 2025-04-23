@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:blasting",
+  "group": "netherite_scrap",
+  "ingredient": [
+    {
+      "item": "enderitemod:enderite_upgrade_smithing_template"
+    }
+  ],
+  "result": {
+    "id": "minecraft:netherite_scrap"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}
