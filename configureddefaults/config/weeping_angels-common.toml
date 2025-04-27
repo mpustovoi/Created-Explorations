@@ -3,7 +3,7 @@
 	#Determines the range quantum locked entities will check if the player is looking in
 	# Default: 65
 	# Range: 1 ~ 100
-	stalk_range = 60
+	stalk_range = 80
 	#If enabled alongside the mobGriefing gamerule, angels will interact with blocks that emit light
 	block_breaking = true
 
@@ -24,4 +24,4 @@
 	# Range: 1 ~ 100
 	teleport_chance = 50
 	#A list of Dimensions that angels cannot teleport players to
-	banned_dimensions = ["minecraft:the_end"]
+	banned_dimensions = ["bracken:dormis", "bracken:glacium", "bracken:omnidrome", "bracken:panacea", "bracken:the_brine", "bracken:varskspace", "bracken:void", "bro:void", "minecraft:the_end", "man:halucination", "graveyard:past", "twilightforest:twilight_forest", "deeperdarker:otherside"]

@@ -1,10 +1,25 @@
 {
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": ["illagerinvasion"]
+    }
+  ],
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "illagerinvasion"
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "illagerinvasion"
+    }
+  ],
   "type": "minecraft:crafting_shaped",
-  "pattern": ["ABA", "TGT", "EPE"],
+  "pattern": ["PBP", "TGT", "EPE"],
   "key": {
-    "A": {
-      "item": "minecraft:arrow"
-    },
     "B": {
       "item": "minecraft:bow"
     },
@@ -18,11 +33,11 @@
       "item": "minecraft:ghast_tear"
     },
     "P": {
-      "item": "minecraft:potion"
+      "item": "illagerinvasion:illusionary_dust"
     }
   },
   "result": {
-    "count": 1,
-    "id": "friendsandfoes:illusioner_spawn_egg"
+    "id": "friendsandfoes:illusioner_spawn_egg",
+    "count": 1
   }
 }

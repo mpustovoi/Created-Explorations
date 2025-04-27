@@ -1,22 +1,18 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "BNB",
-        "BDB",
-        "BNB"
-    ],
-    "key": {
-        "B": {
-            "item": "minecraft:bone_block"
-        },
-        "D": {
-            "item": "minecraft:deepslate"
-        },
-        "N": {
-            "item": "minecraft:netherite_ingot"
-        }
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["BDB", "BOB", "BDB"],
+  "key": {
+    "B": {
+      "item": "minecraft:bone_block"
     },
-    "result": {
-        "id": "minecraft:reinforced_deepslate"
+    "D": {
+      "item": "minecraft:deepslate"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
     }
+  },
+  "result": {
+    "id": "minecraft:reinforced_deepslate"
+  }
 }

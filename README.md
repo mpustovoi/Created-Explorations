@@ -39,9 +39,8 @@
 - ⚔ [**RPG Loot**](https://modrinth.com/datapack/rpg-loot)
 - 🌲 [**The Creeper's Code**](https://modrinth.com/datapack/the-creepers-code) — ванильные улучшения для опыта выживания
 - 🌳 [**Vanilla Tweaks**](https://vanillatweaks.net) — рецепты и геймплейные улучшения
-- 🎈 [**Immersive Structures**](https://modrinth.com/datapack/immersive-structures) — в качестве набора данных, поскольку у него нет версии для **NeoForge** 1.21.1, и, кроме того, он не может быть загружен через **Sinytra Connector**
 - 🏘 [Совместимости **Repurposed Structures** и модов **YUNG**'а](https://modrinth.com/datapacks?q=Repurposed+Structures+Better&v=1.20.1)
-- 🐉 [**True Ending: Ender Dragon Overhaul**](https://modrinth.com/datapack/true-ending) — по той же причине, что и **Immersive Structures**
+- 🐉 [**True Ending: Ender Dragon Overhaul**](https://modrinth.com/datapack/true-ending) — в качестве набора данных, поскольку у него нет версии для **NeoForge** 1.21.1, и, кроме того, он не может быть загружен через **Sinytra Connector**
 - 🔁 Пользовательский набор данных, содержащий:
   - Рецепты яиц призыва (используя слёзы гаста)
   - Расширенную систему кузнечных улучшений с поддержкой модов
@@ -97,9 +96,8 @@
 - ⚔ [**RPG Loot**](https://modrinth.com/datapack/rpg-loot)
 - 🌲 [**The Creeper's Code**](https://modrinth.com/datapack/the-creepers-code) — vanilla enhancements for survival experience
 - 🌳 [**Vanilla Tweaks**](https://vanillatweaks.net) — recipes and gameplay improvements
-- 🎈 [**Immersive Structures**](https://modrinth.com/datapack/immersive-structures) — as a data pack since it doesn't have a version for **NeoForge** 1.21.1 and besides, it can't be loaded via **Sinytra Connector**
 - 🏘 [**Repurposed Structures** & **YUNG**'s mods compat](https://modrinth.com/datapacks?q=Repurposed+Structures+Better&v=1.20.1)
-- 🐉 [**True Ending: Ender Dragon Overhaul**](https://modrinth.com/datapack/true-ending) — same reason as **Immersive Structures**
+- 🐉 [**True Ending: Ender Dragon Overhaul**](https://modrinth.com/datapack/true-ending) — as a data pack since it doesn't have a version for **NeoForge** 1.21.1 and besides, it can't be loaded via **Sinytra Connector**
 - 🔁 Сustom data pack, that contains:
   - Spawn egg recipes (using ghast tears)
   - Expanded mod-aware smithing upgrade system

@@ -1,31 +1,27 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "X",
-        "#",
-        "S"
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["  C", " W ", "S  "],
+  "key": {
+    "C": [
+      {
+        "item": "minecraft:command_block"
+      },
+      {
+        "item": "minecraft:chain_command_block"
+      },
+      {
+        "item": "minecraft:repeating_command_block"
+      }
     ],
-    "key": {
-        "X": [
-            {
-                "item": "minecraft:command_block"
-            },
-            {
-                "item": "minecraft:chain_command_block"
-            },
-            {
-                "item": "minecraft:repeating_command_block"
-            }
-        ],
-        "#": {
-            "tag": "minecraft:logs"
-        },
-        "S": {
-            "item": "minecraft:structure_block"
-        }
+    "W": {
+      "item": "minecraft:stick"
     },
-    "result": {
-        "count": 1,
-        "id": "minecraft:debug_stick"
+    "S": {
+      "item": "minecraft:structure_block"
     }
+  },
+  "result": {
+    "id": "minecraft:debug_stick",
+    "count": 1
+  }
 }

@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "create_pillagers_arise:createpillagersmallhouse",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 312,
+    "separation": 16,
+    "salt": 694549768
+  }
+}

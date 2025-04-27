@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "group": "gold_block",
+  "ingredient": [
+    {
+      "item": "minecraft:enchanted_golden_apple"
+    }
+  ],
+  "result": {
+    "id": "minecraft:gold_block"
+  },
+  "experience": 1.0,
+  "cookingtime": 1800
+}

@@ -58,7 +58,7 @@
 			}
 		],
 		"O": {
-			"tag": "universal_dyeing:dyes/brown_dye"
+			"tag": "vanilla_tweaks:dyes/brown_dye"
 		}
 	},
 	"group": "universal_dyeing_glazed_terracotta"

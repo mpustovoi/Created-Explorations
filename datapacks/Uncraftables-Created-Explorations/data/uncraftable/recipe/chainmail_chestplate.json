@@ -1,19 +1,18 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "X X",
-        "#X#",
-        "###"
-    ],
-    "key": {
-        "#": {
-            "item": "minecraft:chain"
-        },
-        "X": {
-            "item": "minecraft:iron_nugget"
-        }
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["C C", "IBI", "CIC"],
+  "key": {
+    "C": {
+      "item": "minecraft:chain"
     },
-    "result": {
-        "id": "minecraft:chainmail_chestplate"
+    "I": {
+      "item": "minecraft:iron_nugget"
+    },
+    "B": {
+      "item": "minecraft:iron_bars"
     }
+  },
+  "result": {
+    "id": "minecraft:chainmail_chestplate"
+  }
 }
