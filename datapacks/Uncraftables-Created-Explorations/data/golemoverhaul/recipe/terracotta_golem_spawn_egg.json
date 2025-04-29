@@ -1,6 +1,6 @@
 {
   "type": "minecraft:crafting_shaped",
-  "pattern": ["DTC", "BCB", "RCR"],
+  "pattern": ["DTS", "BCB", "RCR"],
   "key": {
     "T": {
       "item": "minecraft:ghast_tear"

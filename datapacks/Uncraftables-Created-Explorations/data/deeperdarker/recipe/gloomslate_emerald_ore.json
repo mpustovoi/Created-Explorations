@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["MMM", "MSM", "MMM"],
+  "key": {
+    "M": {
+      "item": "minecraft:emerald"
+    },
+    "S": {
+      "item": "deeperdarker:gloomslate"
+    }
+  },
+  "result": {
+    "id": "deeperdarker:gloomslate_emerald_ore",
+    "count": 1
+  }
+}

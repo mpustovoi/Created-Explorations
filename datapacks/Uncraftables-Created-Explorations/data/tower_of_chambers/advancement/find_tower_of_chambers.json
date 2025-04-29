@@ -1,0 +1,56 @@
+{
+  "parent": "minecraft:adventure/minecraft_trials_edition",
+  "display": {
+    "icon": {
+      "count": 1,
+      "id": "minecraft:chiseled_tuff_bricks"
+    },
+    "title": {
+      "translate": "advancements.tower_of_chambers.find_tower_of_chambers.title",
+      "fallback": "Trial Defense"
+    },
+    "description": {
+      "translate": "advancements.tower_of_chambers.find_tower_of_chambers.descr",
+      "fallback": "Stumble upon a Trial Tower"
+    }
+  },
+  "criteria": {
+    "tower_chambers": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "tower_of_chambers:tower_chambers"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "towerofchamber": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "tower_of_chambers:towerofchamber"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [["tower_chambers", "towerofchamber"]],
+  "sends_telemetry_event": true,
+  "rewards": {
+    "experience": 50
+  }
+}

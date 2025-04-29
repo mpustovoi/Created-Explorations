@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "tower_of_chambers:towerofchamber",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 81,
+    "separation": 80,
+    "salt": 1974026351
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "nethers_exoticism"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "create:andesite_alloy"
+    },
+    "S": {
+      "tag": "c:rods/wooden"
+    },
+    "W": {
+      "item": "nethers_exoticism:jaboticaba_planks"
+    }
+  },
+  "pattern": [
+    "WS",
+    "SA"
+  ],
+  "result": {
+    "count": 2,
+    "id": "create_things_and_misc:jaboticaba_sail"
+  }
+}

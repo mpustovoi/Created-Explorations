@@ -5,31 +5,13 @@
       "item": "pointblank:gunmetal_ingot"
     },
     {
-      "item": "pointblank:gunmetal_ingot"
+      "item": "minecraft:iron_block"
     },
     {
-      "item": "pointblank:gunmetal_ingot"
+      "item": "create:zinc_block"
     },
     {
-      "item": "pointblank:gunmetal_ingot"
-    },
-    {
-      "item": "pointblank:gunmetal_ingot"
-    },
-    {
-      "item": "pointblank:gunmetal_ingot"
-    },
-    {
-      "item": "pointblank:gunmetal_ingot"
-    },
-    {
-      "item": "pointblank:gunmetal_ingot"
-    },
-    {
-      "item": "pointblank:gunmetal_ingot"
-    },
-    {
-      "item": "pointblank:gunmetal_ingot"
+      "item": "minecraft:copper_block"
     },
     {
       "item": "minecraft:tnt"
@@ -40,5 +22,5 @@
       "id": "pointblank:smaw_rocket"
     }
   ],
-  "heatRequirement": "none"
+  "heatRequirement": "heated"
 }

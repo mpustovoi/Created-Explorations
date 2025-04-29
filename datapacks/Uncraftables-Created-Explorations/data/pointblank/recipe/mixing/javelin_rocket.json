@@ -5,133 +5,25 @@
       "item": "pointblank:gunmetal_ingot"
     },
     {
-      "item": "pointblank:gunmetal_ingot"
+      "item": "minecraft:iron_block"
     },
     {
-      "item": "pointblank:gunmetal_ingot"
+      "item": "create:zinc_block"
     },
     {
-      "item": "pointblank:gunmetal_ingot"
-    },
-    {
-      "item": "pointblank:gunmetal_ingot"
-    },
-    {
-      "item": "pointblank:gunmetal_ingot"
-    },
-    {
-      "item": "pointblank:gunmetal_ingot"
-    },
-    {
-      "item": "pointblank:gunmetal_ingot"
-    },
-    {
-      "item": "pointblank:gunmetal_ingot"
-    },
-    {
-      "item": "pointblank:gunmetal_ingot"
+      "item": "minecraft:copper_block"
     },
     {
       "item": "pointblank:processor"
     },
     {
-      "item": "minecraft:redstone"
+      "item": "minecraft:redstone_block"
     },
     {
-      "item": "minecraft:redstone"
+      "item": "minecraft:redstone_block"
     },
     {
-      "item": "minecraft:redstone"
-    },
-    {
-      "item": "minecraft:redstone"
-    },
-    {
-      "item": "minecraft:redstone"
-    },
-    {
-      "item": "minecraft:redstone"
-    },
-    {
-      "item": "minecraft:redstone"
-    },
-    {
-      "item": "minecraft:redstone"
-    },
-    {
-      "item": "minecraft:redstone"
-    },
-    {
-      "item": "minecraft:redstone"
-    },
-    {
-      "item": "minecraft:redstone"
-    },
-    {
-      "item": "minecraft:redstone"
-    },
-    {
-      "item": "minecraft:redstone"
-    },
-    {
-      "item": "minecraft:redstone"
-    },
-    {
-      "item": "minecraft:redstone"
-    },
-    {
-      "item": "minecraft:redstone"
-    },
-    {
-      "item": "minecraft:redstone"
-    },
-    {
-      "item": "minecraft:redstone"
-    },
-    {
-      "item": "minecraft:redstone"
-    },
-    {
-      "item": "minecraft:redstone"
-    },
-    {
-      "item": "minecraft:redstone"
-    },
-    {
-      "item": "minecraft:redstone"
-    },
-    {
-      "item": "minecraft:redstone"
-    },
-    {
-      "item": "minecraft:redstone"
-    },
-    {
-      "item": "minecraft:redstone"
-    },
-    {
-      "item": "minecraft:redstone"
-    },
-    {
-      "item": "minecraft:redstone"
-    },
-    {
-      "item": "minecraft:redstone"
-    },
-    {
-      "item": "minecraft:redstone"
-    },
-    {
-      "item": "minecraft:redstone"
-    },
-    {
-      "item": "minecraft:redstone"
-    },
-    {
-      "item": "minecraft:redstone"
-    },
-    {
-      "item": "minecraft:redstone"
+      "item": "minecraft:redstone_block"
     },
     {
       "item": "minecraft:tnt"
@@ -142,5 +34,5 @@
       "id": "pointblank:javelin_rocket"
     }
   ],
-  "heatRequirement": "none"
+  "heatRequirement": "heated"
 }
