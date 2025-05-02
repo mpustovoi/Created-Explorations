@@ -9,8 +9,12 @@
 	debugging = false
 	#Display the Icon and Pack Name in place of LargeImage from compatible launchers. DOES NOT WORK WITH CUSTOM APPS! ONLY THE DEFAULT ONE!
 	launcherIntegration = false
+	#Allow using local image files, as RPC icons
+	rpcImageServer = true
+	#The URL of the RPC image server that will be used for local images. Restart required when changed
+	rpcImageServerUrl = "https://rpcavatar.firstdark.dev"
 	#Internal Version Number. NO TOUCHY!
-	version = 25
+	version = 26
 
 #The Game Loading event
 [init]
@@ -28,7 +32,7 @@
 		#The Asset ID or URLs of images to randomly use for the large image
 		largeImageKey = ["mclogo"]
 		#The text to show when someone hovers over the largeImage
-		largeImageText = "Create NeoForged {{game.version}}"
+		largeImageText = "Created Explorations {{game.version}}"
 		#The Asset ID or URLs of images to randomly use for the small image
 		smallImageKey = ["mclogo"]
 		#The text to show when someone hovers over the smallImage
@@ -54,7 +58,7 @@
 		#The Asset ID or URLs of images to randomly use for the large image
 		largeImageKey = ["mclogo"]
 		#The text to show when someone hovers over the largeImage
-		largeImageText = "Create NeoForged {{game.version}}"
+		largeImageText = "Created Explorations {{game.version}}"
 		#The Asset ID or URLs of images to randomly use for the small image
 		smallImageKey = ["{{images.player}}"]
 		#The text to show when someone hovers over the smallImage
@@ -80,7 +84,7 @@
 		#The Asset ID or URLs of images to randomly use for the large image
 		largeImageKey = ["mclogo"]
 		#The text to show when someone hovers over the largeImage
-		largeImageText = "Create NeoForged {{game.version}}"
+		largeImageText = "Created Explorations {{game.version}}"
 		#The Asset ID or URLs of images to randomly use for the small image
 		smallImageKey = ["{{images.player}}"]
 		#The text to show when someone hovers over the smallImage
@@ -106,7 +110,7 @@
 		#The Asset ID or URLs of images to randomly use for the large image
 		largeImageKey = ["mclogo"]
 		#The text to show when someone hovers over the largeImage
-		largeImageText = "Create NeoForged {{game.version}}"
+		largeImageText = "Created Explorations {{game.version}}"
 		#The Asset ID or URLs of images to randomly use for the small image
 		smallImageKey = ["{{images.player}}"]
 		#The text to show when someone hovers over the smallImage
@@ -132,7 +136,7 @@
 		#The Asset ID or URLs of images to randomly use for the large image
 		largeImageKey = ["mclogo"]
 		#The text to show when someone hovers over the largeImage
-		largeImageText = "Create NeoForged {{game.version}}"
+		largeImageText = "Created Explorations {{game.version}}"
 		#The Asset ID or URLs of images to randomly use for the small image
 		smallImageKey = ["{{images.player}}"]
 		#The text to show when someone hovers over the smallImage
@@ -158,7 +162,7 @@
 		#The Asset ID or URLs of images to randomly use for the large image
 		largeImageKey = ["mclogo"]
 		#The text to show when someone hovers over the largeImage
-		largeImageText = "Create NeoForged {{game.version}}"
+		largeImageText = "Created Explorations {{game.version}}"
 		#The Asset ID or URLs of images to randomly use for the small image
 		smallImageKey = ["{{images.player}}"]
 		#The text to show when someone hovers over the smallImage
@@ -184,7 +188,7 @@
 		#The Asset ID or URLs of images to randomly use for the large image
 		largeImageKey = ["mclogo"]
 		#The text to show when someone hovers over the largeImage
-		largeImageText = "Create NeoForged {{game.version}}"
+		largeImageText = "Created Explorations {{game.version}}"
 		#The Asset ID or URLs of images to randomly use for the small image
 		smallImageKey = ["{{images.player}}"]
 		#The text to show when someone hovers over the smallImage
@@ -210,7 +214,7 @@
 		#The Asset ID or URLs of images to randomly use for the large image
 		largeImageKey = ["mclogo"]
 		#The text to show when someone hovers over the largeImage
-		largeImageText = "Create NeoForged {{game.version}}"
+		largeImageText = "Created Explorations {{game.version}}"
 		#The Asset ID or URLs of images to randomly use for the small image
 		smallImageKey = ["{{images.player}}"]
 		#The text to show when someone hovers over the smallImage
@@ -236,7 +240,7 @@
 		#The Asset ID or URLs of images to randomly use for the large image
 		largeImageKey = ["mclogo"]
 		#The text to show when someone hovers over the largeImage
-		largeImageText = "Create NeoForged {{game.version}}"
+		largeImageText = "Created Explorations {{game.version}}"
 		#The Asset ID or URLs of images to randomly use for the small image
 		smallImageKey = ["{{images.player}}"]
 		#The text to show when someone hovers over the smallImage
@@ -260,7 +264,7 @@
 		#The Asset ID or URLs of images to randomly use for the large image
 		largeImageKey = ["mclogo"]
 		#The text to show when someone hovers over the largeImage
-		largeImageText = "Create NeoForged {{game.version}}"
+		largeImageText = "Created Explorations {{game.version}}"
 		#The Asset ID or URLs of images to randomly use for the small image
 		smallImageKey = ["mclogo"]
 		#The text to show when someone hovers over the smallImage
