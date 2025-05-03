@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:smelting",
+  "group": "iron_nugget",
+  "ingredient": [
+    {
+      "item": "createcasing:industrial_iron_gearbox"
+    },
+    {
+      "item": "createcasing:industrial_iron_mixer"
+    },
+    {
+      "item": "createcasing:industrial_iron_press"
+    },
+    {
+      "item": "createcasing:industrial_iron_depot"
+    },
+    {
+      "item": "createcasing:industrial_iron_encased_chain_drive"
+    },
+    {
+      "item": "createcasing:industrial_iron_configurable_gearbox"
+    }
+  ],
+  "result": {
+    "id": "minecraft:iron_nugget"
+  },
+  "experience": 0.0,
+  "cookingtime": 20
+}

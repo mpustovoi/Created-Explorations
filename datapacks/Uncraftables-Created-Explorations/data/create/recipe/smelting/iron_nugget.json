@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:smelting",
+  "group": "iron_nugget",
+  "ingredient": [
+    {
+      "item": "create:industrial_iron_block"
+    },
+    {
+      "item": "create:industrial_iron_window"
+    },
+    {
+      "item": "create:ornate_iron_window"
+    }
+  ],
+  "result": {
+    "id": "minecraft:iron_nugget"
+  },
+  "experience": 0.0,
+  "cookingtime": 20
+}

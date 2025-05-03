@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["000", "0 0"],
+  "key": {
+    "0": {
+      "tag": "c:plates/copper"
+    }
+  },
+  "result": {
+    "id": "create_sa:copper_helmet",
+    "count": 1
+  }
+}

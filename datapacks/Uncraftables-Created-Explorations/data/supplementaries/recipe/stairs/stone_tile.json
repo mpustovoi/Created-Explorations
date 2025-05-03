@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shapeless",
+  "group": "stairs_to_blocks",
+  "ingredients": [
+    {
+      "item": "supplementaries:stone_tile_stairs"
+    },
+    {
+      "item": "supplementaries:stone_tile_stairs"
+    },
+    {
+      "item": "supplementaries:stone_tile_stairs"
+    },
+    {
+      "item": "supplementaries:stone_tile_stairs"
+    }
+  ],
+  "result": {
+    "id": "supplementaries:stone_tile",
+    "count": 3
+  }
+}

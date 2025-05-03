@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shaped",
+  "group": "slabs_to_blocks",
+  "pattern": ["##"],
+  "key": {
+    "#": {
+      "item": "supplementaries:ash_brick_slab"
+    }
+  },
+  "result": {
+    "id": "supplementaries:ash_bricks",
+    "count": 1
+  }
+}

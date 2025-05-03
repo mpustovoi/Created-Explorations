@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:smelting",
+  "group": "iron_nugget",
+  "ingredient": [
+    {
+      "item": "createaddition:iron_wire"
+    },
+    {
+      "item": "createaddition:barbed_wire"
+    },
+    {
+      "item": "createaddition:iron_rod"
+    }
+  ],
+  "result": {
+    "id": "minecraft:iron_nugget"
+  },
+  "experience": 0.0,
+  "cookingtime": 20
+}

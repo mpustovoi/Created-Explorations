@@ -3,12 +3,6 @@
   "group": "iron_block",
   "ingredient": [
     {
-      "item": "immersive_aircraft:steel_boiler"
-    },
-    {
-      "item": "immersive_aircraft:hull_reinforcement"
-    },
-    {
       "item": "immersive_aircraft:airship"
     },
     {
@@ -19,6 +13,9 @@
     },
     {
       "item": "immersive_aircraft:biplane"
+    },
+    {
+      "item": "immersive_aircraft:gyrodyne"
     },
     {
       "item": "immersive_aircraft:quadrocopter"

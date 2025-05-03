@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:exposed_cut_copper"
+    }
+  },
+  "result": {
+    "count": 4,
+    "id": "minecraft:exposed_cut_copper_stairs"
+  },
+  "category": "building"
+}

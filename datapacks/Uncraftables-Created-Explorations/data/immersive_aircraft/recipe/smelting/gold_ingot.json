@@ -3,7 +3,7 @@
   "group": "gold_ingot",
   "ingredient": [
     {
-      "item": "immersive_aircraft:eco_engine"
+      "item": "immersive_aircraft:engine"
     }
   ],
   "result": {

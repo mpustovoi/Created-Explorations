@@ -120,6 +120,54 @@
     "protection": 0.2
   },
   {
+    "item": "friendsandfoes:wildfire_crown",
+    "protection": 0.1
+  },
+  {
+    "item": "endermanoverhaul:badlands_hood",
+    "protection": 0.07
+  },
+  {
+    "item": "endermanoverhaul:savanna_hood",
+    "protection": 0.07
+  },
+  {
+    "item": "endermanoverhaul:snowy_hood",
+    "protection": 0.07
+  },
+  {
+    "item": "deeperdarker:resonarium_boots",
+    "protection": 0.25
+  },
+  {
+    "item": "deeperdarker:resonarium_leggings",
+    "protection": 0.25
+  },
+  {
+    "item": "deeperdarker:resonarium_chestplate",
+    "protection": 0.25
+  },
+  {
+    "item": "deeperdarker:resonarium_helmet",
+    "protection": 0.25
+  },
+  {
+    "item": "deeperdarker:warden_boots",
+    "protection": 0.5
+  },
+  {
+    "item": "deeperdarker:warden_leggings",
+    "protection": 0.5
+  },
+  {
+    "item": "deeperdarker:warden_chestplate",
+    "protection": 0.5
+  },
+  {
+    "item": "deeperdarker:warden_helmet",
+    "protection": 0.5
+  },
+  {
     "item": "mutantmonsters:mutant_skeleton_boots",
     "protection": 0.05
   },
@@ -230,5 +278,137 @@
   {
     "item": "easy_emerald:obsidian_head",
     "protection": 0.45
+  },
+  {
+    "item": "create:copper_backtank",
+    "protection": 0.17
+  },
+  {
+    "item": "create:netherite_backtank",
+    "protection": 0.37
+  },
+  {
+    "item": "create:copper_diving_helmet",
+    "protection": 0.3
+  },
+  {
+    "item": "create:copper_diving_boots",
+    "protection": 0.3
+  },
+  {
+    "item": "create:netherite_diving_helmet",
+    "protection": 0.7
+  },
+  {
+    "item": "create:netherite_diving_boots",
+    "protection": 0.7
+  },
+  {
+    "item": "create:cardboard_helmet",
+    "protection": 0.03
+  },
+  {
+    "item": "create:cardboard_chestplate",
+    "protection": 0.03
+  },
+  {
+    "item": "create:cardboard_leggings",
+    "protection": 0.03
+  },
+  {
+    "item": "create:cardboard_boots",
+    "protection": 0.03
+  },
+  {
+    "item": "create_sa:andesite_jetpack_chestplate",
+    "protection": 0.15
+  },
+  {
+    "item": "create_sa:andesite_exoskeleton_chestplate",
+    "protection": 0.17
+  },
+  {
+    "item": "create_sa:brass_jetpack_chestplate",
+    "protection": 0.23
+  },
+  {
+    "item": "create_sa:brass_exoskeleton_chestplate",
+    "protection": 0.23
+  },
+  {
+    "item": "create_sa:copper_jetpack_chestplate",
+    "protection": 0.2
+  },
+  {
+    "item": "create_sa:copper_exoskeleton_chestplate",
+    "protection": 0.2
+  },
+  {
+    "item": "create_sa:netherite_jetpack_chestplate",
+    "protection": 0.35
+  },
+  {
+    "item": "create_sa:netherite_exoskeleton_chestplate",
+    "protection": 0.37
+  },
+  {
+    "item": "create_sa:slime_helmet",
+    "protection": 0.15
+  },
+  {
+    "item": "create_sa:slime_boots",
+    "protection": 0.15
+  },
+  {
+    "item": "create_sa:brass_helmet",
+    "protection": 0.23
+  },
+  {
+    "item": "create_sa:brass_chestplate",
+    "protection": 0.23
+  },
+  {
+    "item": "create_sa:brass_leggings",
+    "protection": 0.23
+  },
+  {
+    "item": "create_sa:brass_boots",
+    "protection": 0.23
+  },
+  {
+    "item": "create_sa:copper_helmet",
+    "protection": 0.2
+  },
+  {
+    "item": "create_sa:copper_chestplate",
+    "protection": 0.2
+  },
+  {
+    "item": "create_sa:copper_leggings",
+    "protection": 0.2
+  },
+  {
+    "item": "create_sa:copper_boots",
+    "protection": 0.2
+  },
+  {
+    "item": "create_sa:zinc_helmet",
+    "protection": 0.17
+  },
+  {
+    "item": "create_sa:zinc_chestplate",
+    "protection": 0.17
+  },
+  {
+    "item": "create_sa:zinc_leggings",
+    "protection": 0.17
+  },
+  {
+    "item": "create_sa:zinc_boots",
+    "protection": 0.17
+  },
+  {
+    "item": "create_things_and_misc:sticky_boots_boots",
+    "protection": 0.33
   }
 ]

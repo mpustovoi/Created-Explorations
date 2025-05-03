@@ -6,13 +6,19 @@
       "item": "immersive_aircraft:hull"
     },
     {
-      "item": "immersive_aircraft:engine"
+      "item": "immersive_aircraft:hull_reinforcement"
     },
     {
       "item": "immersive_aircraft:propeller"
     },
     {
-      "item": "immersive_aircraft:gyrodyne"
+      "item": "immersive_aircraft:enhanced_propeller"
+    },
+    {
+      "item": "immersive_aircraft:nether_engine"
+    },
+    {
+      "item": "immersive_aircraft:steel_boiler"
     },
     {
       "item": "immersive_aircraft:heavy_crossbow"
@@ -22,9 +28,6 @@
     },
     {
       "item": "immersive_aircraft:industrial_gears"
-    },
-    {
-      "item": "immersive_aircraft:gyroscope"
     },
     {
       "item": "immersive_aircraft:improved_landing_gear"

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:smelting",
+  "group": "iron_nugget",
+  "ingredient": [
+    {
+      "item": "blockbox:iron_plate"
+    },
+    {
+      "item": "blockbox:iron_tread_plate"
+    },
+    {
+      "item": "blockbox:iron_tread_plate_stairs"
+    },
+    {
+      "item": "blockbox:iron_tread_plate_slab"
+    },
+    {
+      "item": "blockbox:corrugated_iron_plate"
+    },
+    {
+      "item": "blockbox:corrugated_iron_plate_stairs"
+    },
+    {
+      "item": "blockbox:corrugated_iron_plate_slab"
+    },
+    {
+      "item": "blockbox:iron_plate_pillar"
+    },
+    {
+      "item": "blockbox:iron_plate_door"
+    },
+    {
+      "item": "blockbox:iron_plate_trapdoor"
+    }
+  ],
+  "result": {
+    "id": "minecraft:iron_nugget"
+  },
+  "experience": 0.0,
+  "cookingtime": 20
+}

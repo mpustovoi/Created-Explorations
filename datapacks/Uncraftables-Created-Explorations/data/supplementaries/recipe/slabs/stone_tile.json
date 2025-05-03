@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shaped",
+  "group": "slabs_to_blocks",
+  "pattern": ["##"],
+  "key": {
+    "#": {
+      "item": "supplementaries:stone_tile_slab"
+    }
+  },
+  "result": {
+    "id": "supplementaries:stone_tile",
+    "count": 1
+  }
+}

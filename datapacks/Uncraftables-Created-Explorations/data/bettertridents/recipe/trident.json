@@ -1,0 +1,35 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": ["create_aquatic_ambitions"]
+    }
+  ],
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create_aquatic_ambitions"
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create_aquatic_ambitions"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "bettertridents:trident_fragment"
+    },
+    "P": {
+      "item": "create_aquatic_ambitions:prismarine_rod"
+    }
+  },
+  "pattern": [" ##", " P#", "P  "],
+  "result": {
+    "count": 1,
+    "id": "minecraft:trident"
+  }
+}

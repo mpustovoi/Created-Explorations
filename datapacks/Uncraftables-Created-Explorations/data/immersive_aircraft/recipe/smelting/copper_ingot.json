@@ -6,13 +6,16 @@
       "item": "immersive_aircraft:boiler"
     },
     {
+      "item": "immersive_aircraft:eco_engine"
+    },
+    {
+      "item": "immersive_aircraft:telescope"
+    },
+    {
       "item": "immersive_aircraft:sturdy_pipes"
     },
     {
       "item": "immersive_aircraft:rotary_cannon"
-    },
-    {
-      "item": "immersive_aircraft:enhanced_propeller"
     },
     {
       "item": "immersive_aircraft:industrial_gears"
