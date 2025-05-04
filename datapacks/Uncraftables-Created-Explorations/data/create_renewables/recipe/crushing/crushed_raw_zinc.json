@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:cobbled_deepslate"
+    }
+  ],
+  "processing_time": 300,
+  "results": [
+    {
+      "chance": 0.1,
+      "id": "create:crushed_raw_zinc"
+    },
+    {
+      "chance": 0.9,
+      "id": "minecraft:gravel"
+    }
+  ]
+}

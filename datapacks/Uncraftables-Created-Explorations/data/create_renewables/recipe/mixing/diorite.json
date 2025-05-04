@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "tag": "c:cobblestone"
+    },
+    {
+      "type": "fluid_tag",
+      "amount": 800,
+      "fluid_tag": "c:milk"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:diorite"
+    }
+  ]
+}
