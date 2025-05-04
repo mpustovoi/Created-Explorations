@@ -1,26 +1,23 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "SES",
-        "PGP",
-        "EEE"
-    ],
-    "key": {
-        "G": {
-            "item": "minecraft:evoker_spawn_egg"
-        },
-        "E": {
-            "item": "minecraft:emerald"
-        },
-        "S": {
-            "item": "illagerinvasion:surrendered_spawn_egg"
-        },
-        "P": {
-            "item": "illagerinvasion:primal_essence"
-        }
+  "group": "spawn_egg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["SES", "PGP", "EEE"],
+  "key": {
+    "G": {
+      "item": "minecraft:evoker_spawn_egg"
     },
-    "result": {
-        "count": 1,
-        "id": "illagerinvasion:invoker_spawn_egg"
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "S": {
+      "item": "illagerinvasion:surrendered_spawn_egg"
+    },
+    "P": {
+      "item": "illagerinvasion:primal_essence"
     }
+  },
+  "result": {
+    "count": 1,
+    "id": "illagerinvasion:invoker_spawn_egg"
+  }
 }

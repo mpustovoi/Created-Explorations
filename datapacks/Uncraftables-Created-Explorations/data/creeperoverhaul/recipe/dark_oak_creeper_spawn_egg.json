@@ -1,6 +1,7 @@
 {
+  "group": "spawn_egg",
   "type": "minecraft:crafting_shaped",
-  "pattern": ["LBL", "CTC", "GPG"],
+  "pattern": ["RWB", "GTG", "LLL"],
   "key": {
     "T": {
       "item": "minecraft:creeper_spawn_egg"
@@ -9,20 +10,20 @@
       "item": "minecraft:gunpowder"
     },
     "L": {
-      "item": "minecraft:spruce_log"
+      "item": "minecraft:dark_oak_log"
     },
-    "C": {
-      "item": "minecraft:mossy_cobblestone"
-    },
-    "P": {
-      "item": "minecraft:podzol"
+    "R": {
+      "item": "minecraft:red_mushroom"
     },
     "B": {
       "item": "minecraft:brown_mushroom"
+    },
+    "W": {
+      "item": "minecraft:cobweb"
     }
   },
   "result": {
-    "id": "creeperoverhaul:spruce_creeper_spawn_egg",
+    "id": "creeperoverhaul:dark_oak_creeper_spawn_egg",
     "count": 1
   }
 }

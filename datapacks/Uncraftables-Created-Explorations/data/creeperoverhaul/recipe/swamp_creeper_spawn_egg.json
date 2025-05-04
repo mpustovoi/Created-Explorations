@@ -1,4 +1,5 @@
 {
+  "group": "spawn_egg",
   "type": "minecraft:crafting_shaped",
   "pattern": ["LGL", "BTP", "MPM"],
   "key": {
@@ -18,7 +19,7 @@
       "item": "minecraft:lily_pad"
     },
     "G": {
-      "item": "minecraft:grass"
+      "item": "minecraft:short_grass"
     }
   },
   "result": {

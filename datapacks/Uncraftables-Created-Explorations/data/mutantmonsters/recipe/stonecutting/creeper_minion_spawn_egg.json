@@ -1,4 +1,5 @@
 {
+  "group": "spawn_egg",
   "type": "minecraft:stonecutting",
   "ingredient": {
     "item": "minecraft:creeper_spawn_egg"

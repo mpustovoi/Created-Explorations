@@ -1,10 +1,7 @@
 {
+  "group": "spawn_egg",
   "type": "crafting_shaped",
-  "pattern": [
-    "LVL",
-    "VAV",
-    "VLV"
-  ],
+  "pattern": ["LVL", "VAV", "VLV"],
   "key": {
     "A": {
       "item": "minecraft:skeleton_spawn_egg"

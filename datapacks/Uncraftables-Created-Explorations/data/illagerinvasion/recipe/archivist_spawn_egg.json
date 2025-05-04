@@ -1,29 +1,26 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "EBE",
-        "PGP",
-        "XEX"
-    ],
-    "key": {
-        "G": {
-            "item": "minecraft:ghast_tear"
-        },
-        "B": {
-            "item": "minecraft:book"
-        },
-        "P": {
-            "item": "minecraft:paper"
-        },
-        "E": {
-            "item": "minecraft:emerald"
-        },
-        "X": {
-            "item": "minecraft:enchanted_book"
-        }
+  "group": "spawn_egg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["EBE", "PGP", "XEX"],
+  "key": {
+    "G": {
+      "item": "minecraft:ghast_tear"
     },
-    "result": {
-        "count": 1,
-        "id": "illagerinvasion:archivist_spawn_egg"
+    "B": {
+      "item": "minecraft:book"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "X": {
+      "item": "minecraft:enchanted_book"
     }
+  },
+  "result": {
+    "count": 1,
+    "id": "illagerinvasion:archivist_spawn_egg"
+  }
 }

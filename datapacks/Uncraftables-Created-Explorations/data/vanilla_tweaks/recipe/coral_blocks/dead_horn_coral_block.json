@@ -1,6 +1,6 @@
 {
   "type": "crafting_shaped",
-  "pattern": ["###", "###", "###"],
+  "pattern": ["##", "##"],
   "key": {
     "#": {
       "tag": "vanilla_tweaks:dead_horn_coral"
@@ -11,5 +11,4 @@
     "count": 1
   },
   "group": "coral_blocks"
-
 }

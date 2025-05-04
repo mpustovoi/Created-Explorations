@@ -1,22 +1,19 @@
 {
-    "type": "crafting_shaped",
-    "pattern": [
-        "DDD",
-        "EAE",
-        "DDD"
-    ],
-    "key": {
-        "A": {
-            "item": "minecraft:vex_spawn_egg"
-        },
-        "E": {
-            "item": "minecraft:amethyst_block"
-        },
-        "D": {
-            "item": "minecraft:diamond"
-        }
+  "group": "spawn_egg",
+  "type": "crafting_shaped",
+  "pattern": ["DDD", "EAE", "DDD"],
+  "key": {
+    "A": {
+      "item": "minecraft:vex_spawn_egg"
     },
-    "result": {
-        "id": "minecraft:allay_spawn_egg"
+    "E": {
+      "item": "minecraft:amethyst_block"
+    },
+    "D": {
+      "item": "minecraft:diamond"
     }
+  },
+  "result": {
+    "id": "minecraft:allay_spawn_egg"
+  }
 }

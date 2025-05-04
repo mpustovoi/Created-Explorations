@@ -1,22 +1,19 @@
 {
-    "type": "crafting_shaped",
-    "pattern": [
-        "SSS",
-        "SAS",
-        "SPS"
-    ],
-    "key": {
-        "A": {
-            "item": "minecraft:ghast_tear"
-        },
-        "P": {
-            "item": "minecraft:packed_mud"
-        },
-        "S": {
-            "item": "minecraft:armadillo_scute"
-        }
+  "group": "spawn_egg",
+  "type": "crafting_shaped",
+  "pattern": ["SSS", "SAS", "SPS"],
+  "key": {
+    "A": {
+      "item": "minecraft:ghast_tear"
     },
-    "result": {
-        "id": "minecraft:armadillo_spawn_egg"
+    "P": {
+      "item": "minecraft:packed_mud"
+    },
+    "S": {
+      "item": "minecraft:armadillo_scute"
     }
+  },
+  "result": {
+    "id": "minecraft:armadillo_spawn_egg"
+  }
 }

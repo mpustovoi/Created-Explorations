@@ -1,11 +1,7 @@
 {
+  "group": "spawn_egg",
   "type": "minecraft:crafting_shaped",
-  "group": "spawn_eggs",
-  "pattern": [
-    "OOO",
-    "O#O",
-    "OOO"
-  ],
+  "pattern": ["OOO", "O#O", "OOO"],
   "key": {
     "O": {
       "item": "minecraft:breeze_rod"

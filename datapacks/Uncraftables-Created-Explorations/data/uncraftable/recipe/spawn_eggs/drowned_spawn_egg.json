@@ -1,43 +1,39 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "group": "spawn_eggs",
-    "pattern": [
-        "GTG",
-        "IZD",
-        "RWC"
+  "group": "spawn_egg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["GTG", "IZD", "RWC"],
+  "key": {
+    "I": [
+      {
+        "item": "minecraft:iron_ingot"
+      },
+      {
+        "item": "minecraft:gold_ingot"
+      }
     ],
-    "key": {
-        "I": [
-            {
-                "item": "minecraft:iron_ingot"
-            },
-            {
-                "item": "minecraft:gold_ingot"
-            }
-        ],
-        "R": {
-            "item": "minecraft:rotten_flesh"
-        },
-        "C": {
-            "item": "minecraft:copper_ingot"
-        },
-        "G": {
-            "item": "minecraft:seagrass"
-        },
-        "Z": {
-            "item": "minecraft:zombie_spawn_egg"
-        },
-        "W": {
-            "item": "minecraft:water_bucket"
-        },
-        "T": {
-            "item": "minecraft:ghast_tear"
-        },
-        "D": {
-            "item": "minecraft:trident"
-        }
+    "R": {
+      "item": "minecraft:rotten_flesh"
     },
-    "result": {
-        "id": "minecraft:drowned_spawn_egg"
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "G": {
+      "item": "minecraft:seagrass"
+    },
+    "Z": {
+      "item": "minecraft:zombie_spawn_egg"
+    },
+    "W": {
+      "item": "minecraft:water_bucket"
+    },
+    "T": {
+      "item": "minecraft:ghast_tear"
+    },
+    "D": {
+      "item": "minecraft:trident"
     }
+  },
+  "result": {
+    "id": "minecraft:drowned_spawn_egg"
+  }
 }

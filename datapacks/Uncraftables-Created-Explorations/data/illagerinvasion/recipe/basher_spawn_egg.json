@@ -1,29 +1,26 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "IEI",
-        "SGA",
-        "EIE"
-    ],
-    "key": {
-        "G": {
-            "item": "minecraft:ghast_tear"
-        },
-        "S": {
-            "item": "minecraft:shield"
-        },
-        "A": {
-            "item": "minecraft:stone_axe"
-        },
-        "E": {
-            "item": "minecraft:emerald"
-        },
-        "I": {
-            "item": "minecraft:iron_nugget"
-        }
+  "group": "spawn_egg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["IEI", "SGA", "EIE"],
+  "key": {
+    "G": {
+      "item": "minecraft:ghast_tear"
     },
-    "result": {
-        "count": 1,
-        "id": "illagerinvasion:basher_spawn_egg"
+    "S": {
+      "item": "minecraft:shield"
+    },
+    "A": {
+      "item": "minecraft:stone_axe"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "I": {
+      "item": "minecraft:iron_nugget"
     }
+  },
+  "result": {
+    "count": 1,
+    "id": "illagerinvasion:basher_spawn_egg"
+  }
 }

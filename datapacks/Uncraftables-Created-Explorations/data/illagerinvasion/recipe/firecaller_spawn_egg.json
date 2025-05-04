@@ -1,26 +1,23 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "MFM",
-        "FGF",
-        "EEE"
-    ],
-    "key": {
-        "G": {
-            "item": "minecraft:ghast_tear"
-        },
-        "E": {
-            "item": "minecraft:emerald"
-        },
-        "F": {
-            "item": "minecraft:fire_charge"
-        },
-        "M": {
-            "item": "minecraft:magma_block"
-        }
+  "group": "spawn_egg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["MFM", "FGF", "EEE"],
+  "key": {
+    "G": {
+      "item": "minecraft:ghast_tear"
     },
-    "result": {
-        "count": 1,
-        "id": "illagerinvasion:firecaller_spawn_egg"
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "F": {
+      "item": "minecraft:fire_charge"
+    },
+    "M": {
+      "item": "minecraft:magma_block"
     }
+  },
+  "result": {
+    "count": 1,
+    "id": "illagerinvasion:firecaller_spawn_egg"
+  }
 }

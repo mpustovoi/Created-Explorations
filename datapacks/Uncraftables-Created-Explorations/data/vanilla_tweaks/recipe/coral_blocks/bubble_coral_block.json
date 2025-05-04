@@ -1,18 +1,14 @@
 {
-	"result": {
-		"id": "minecraft:bubble_coral_block",
-		"count": 1
-	},
-	"type": "crafting_shaped",
-	"pattern": [
-		"###",
-		"###",
-		"###"
-	],
-	"key": {
-		"#": {
-			"tag": "vanilla_tweaks:bubble_coral"
-		}
-	},
-	"group": "coral_blocks"
+  "type": "crafting_shaped",
+  "pattern": ["##", "##"],
+  "key": {
+    "#": {
+      "tag": "vanilla_tweaks:bubble_coral"
+    }
+  },
+  "result": {
+    "id": "minecraft:bubble_coral_block",
+    "count": 1
+  },
+  "group": "coral_blocks"
 }
