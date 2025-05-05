@@ -6,7 +6,7 @@
     },
     "title": {
       "translate": "advancements.create_ltab.ruin.title",
-      "fallback": "Ruins"
+      "fallback": "Forgotten with Time"
     },
     "description": {
       "translate": "advancements.create_ltab.ruin.description",
@@ -31,4 +31,5 @@
       }
     }
   }
+
 }

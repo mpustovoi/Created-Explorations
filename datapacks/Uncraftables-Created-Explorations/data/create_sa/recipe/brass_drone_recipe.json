@@ -11,7 +11,7 @@
       "item": "create:redstone_link"
     },
     "2": {
-      "item": "c:plates/brass"
+      "tag": "c:plates/brass"
     },
     "3": {
       "item": "create:precision_mechanism"

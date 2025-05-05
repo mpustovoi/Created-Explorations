@@ -1,10 +1,28 @@
 {
+  "fabric:load_conditions": [
+    {
+      "condition": "supplementaries:flag",
+      "flag": "ash_bricks"
+    }
+  ],
+  "conditions": [
+    {
+      "type": "supplementaries:flag",
+      "flag": "ash_bricks"
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "supplementaries:flag",
+      "flag": "ash_bricks"
+    }
+  ],
   "type": "crafting_shaped",
   "group": "slabs_to_blocks",
   "pattern": ["##"],
   "key": {
     "#": {
-      "item": "supplementaries:ash_brick_slab"
+      "item": "supplementaries:ash_bricks_slab"
     }
   },
   "result": {

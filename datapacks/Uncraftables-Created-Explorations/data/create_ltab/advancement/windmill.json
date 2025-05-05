@@ -6,7 +6,7 @@
     },
     "title": {
       "translate": "advancements.create_ltab.windmill.title",
-      "fallback": "The Windmill"
+      "fallback": "Calm on the Hayloft"
     },
     "description": {
       "translate": "advancements.create_ltab.windmill.description",
@@ -15,20 +15,7 @@
   },
   "criteria": {
     "big_windmill": {
-      "trigger": "minecraft:location",
-      "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "location": {
-                "structures": "create_ltab:big_windmill"
-              }
-            }
-          }
-        ]
-      }
+      "trigger": "minecraft:impossible"
     }
   }
 }

@@ -261,7 +261,7 @@ key_key.clickthrough.toggle:key.keyboard.unknown
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_create.keyinfo.toolbelt:key.keyboard.left.alt
 key_create.keyinfo.rotate_menu:key.keyboard.unknown
-key_key.configured.open_mod_list:key.keyboard.unknown
+key_key.configured.open_mod_list:key.keyboard.keypad.7
 key_key.jade.config:key.keyboard.unknown
 key_key.jade.show_overlay:key.keyboard.unknown
 key_key.jade.toggle_liquid:key.keyboard.unknown

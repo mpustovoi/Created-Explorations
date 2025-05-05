@@ -6,7 +6,7 @@
     },
     "title": {
       "translate": "advancements.create_ltab.grot.title",
-      "fallback": "The Grot"
+      "fallback": "Grotesque"
     },
     "description": {
       "translate": "advancements.create_ltab.grot.description",
@@ -31,4 +31,5 @@
       }
     }
   }
+
 }

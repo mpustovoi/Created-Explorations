@@ -6,7 +6,7 @@
     },
     "title": {
       "translate": "advancements.create_ltab.snowfort.title",
-      "fallback": "The Fort"
+      "fallback": "Age of Fortresses"
     },
     "description": {
       "translate": "advancements.create_ltab.snowfort.description",
@@ -31,4 +31,5 @@
       }
     }
   }
+
 }
