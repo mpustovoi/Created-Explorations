@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "create_things_and_misc:copper_knife",
+      "required": false
+    },
+    {
+      "id": "create_things_and_misc:zinc_knife",
+      "required": false
+    },
+    {
+      "id": "create_things_and_misc:brass_knife",
+      "required": false
+    }
+  ]
+}

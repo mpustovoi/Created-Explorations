@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:smelting",
+  "group": "copper_nugget",
+  "ingredient": [
+    {
+      "item": "createaddition:copper_wire"
+    },
+    {
+      "item": "createaddition:copper_spool"
+    },
+    {
+      "item": "createaddition:festive_spool"
+    },
+    {
+      "item": "createaddition:copper_rod"
+    },
+    {
+      "item": "createaddition:capacitor"
+    }
+  ],
+  "result": {
+    "id": "create:copper_nugget"
+  },
+  "experience": 0.0,
+  "cookingtime": 20
+}

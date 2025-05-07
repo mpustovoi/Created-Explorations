@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" 12", "34 "],
+  "key": {
+    "1": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "2": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "3": {
+      "item": "minecraft:copper_ingot"
+    },
+    "4": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "id": "create_things_and_misc:netherite_portable_whistle",
+    "count": 1
+  }
+}

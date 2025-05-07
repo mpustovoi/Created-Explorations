@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "group": "copper_nugget",
+  "ingredient": [
+    {
+      "item": "createcasing:copper_gearbox"
+    },
+    {
+      "item": "createcasing:vertical_copper_gearbox"
+    },
+    {
+      "item": "createcasing:copper_mixer"
+    },
+    {
+      "item": "createcasing:copper_press"
+    },
+    {
+      "item": "createcasing:copper_depot"
+    },
+    {
+      "item": "createcasing:copper_encased_chain_drive"
+    },
+    {
+      "item": "createcasing:copper_adjustable_chain_gearshift"
+    },
+    {
+      "item": "createcasing:copper_configurable_gearbox"
+    },
+    {
+      "item": "createcasing:copper_door"
+    }
+  ],
+  "result": {
+    "id": "create:copper_nugget"
+  },
+  "experience": 0.0,
+  "cookingtime": 20
+}

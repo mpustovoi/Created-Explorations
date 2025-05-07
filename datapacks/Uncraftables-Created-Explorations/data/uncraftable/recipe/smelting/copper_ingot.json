@@ -3,13 +3,55 @@
   "group": "copper_ingot",
   "ingredient": [
     {
-      "item": "minecraft:brush"
-    },
-    {
-      "item": "minecraft:spyglass"
-    },
-    {
       "item": "minecraft:lightning_rod"
+    },
+    {
+      "item": "minecraft:copper_door"
+    },
+    {
+      "item": "minecraft:exposed_copper_door"
+    },
+    {
+      "item": "minecraft:weathered_copper_door"
+    },
+    {
+      "item": "minecraft:oxidized_copper_door"
+    },
+    {
+      "item": "minecraft:waxed_copper_door"
+    },
+    {
+      "item": "minecraft:waxed_exposed_copper_door"
+    },
+    {
+      "item": "minecraft:waxed_weathered_copper_door"
+    },
+    {
+      "item": "minecraft:waxed_oxidized_copper_door"
+    },
+    {
+      "item": "minecraft:copper_trapdoor"
+    },
+    {
+      "item": "minecraft:exposed_copper_trapdoor"
+    },
+    {
+      "item": "minecraft:weathered_copper_trapdoor"
+    },
+    {
+      "item": "minecraft:oxidized_copper_trapdoor"
+    },
+    {
+      "item": "minecraft:waxed_copper_trapdoor"
+    },
+    {
+      "item": "minecraft:waxed_exposed_copper_trapdoor"
+    },
+    {
+      "item": "minecraft:waxed_weathered_copper_trapdoor"
+    },
+    {
+      "item": "minecraft:waxed_oxidized_copper_trapdoor"
     }
   ],
   "result": {

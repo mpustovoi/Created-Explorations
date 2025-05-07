@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "group": "gold_nugget",
+  "ingredient": [
+    {
+      "item": "create_things_and_misc:portable_whistle"
+    }
+  ],
+  "result": {
+    "id": "minecraft:gold_nugget"
+  },
+  "experience": 0.0,
+  "cookingtime": 20
+}

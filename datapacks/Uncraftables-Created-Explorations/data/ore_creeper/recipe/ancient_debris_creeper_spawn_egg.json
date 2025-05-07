@@ -4,10 +4,10 @@
   "pattern": ["BBB", "BEB", "BBB"],
   "key": {
     "E": {
-      "item": "minecraft:creeper_spawn_egg"
+      "item": "ore_creeper:nether_gold_creeper_spawn_egg"
     },
     "B": {
-      "item": "minecraft:netherite_block"
+      "item": "minecraft:ancient_debris"
     }
   },
   "result": {

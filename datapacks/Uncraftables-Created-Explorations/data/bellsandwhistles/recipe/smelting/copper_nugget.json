@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smelting",
+  "group": "copper_nugget",
+  "ingredient": [
+    {
+      "item": "bellsandwhistles:copper_bogie_steps"
+    },
+    {
+      "item": "bellsandwhistles:copper_grab_rails"
+    },
+    {
+      "item": "bellsandwhistles:copper_door_step"
+    },
+    {
+      "item": "bellsandwhistles:copper_pilot"
+    }
+  ],
+  "result": {
+    "id": "create:copper_nugget"
+  },
+  "experience": 0.0,
+  "cookingtime": 20
+}

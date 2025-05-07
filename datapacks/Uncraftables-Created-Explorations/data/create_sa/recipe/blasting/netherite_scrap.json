@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:blasting",
+  "group": "netherite_scrap",
+  "ingredient": [
+    {
+      "item": "create_sa:netherite_jetpack_chestplate"
+    },
+    {
+      "item": "create_sa:copper_magnet"
+    },
+    {
+      "item": "create_sa:brass_cube"
+    }
+  ],
+  "result": {
+    "id": "minecraft:netherite_scrap"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

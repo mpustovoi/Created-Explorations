@@ -10,9 +10,9 @@
 	// If the bundled Husk Spawn mod should be enabled.
 	"enableHuskSpawn": false,
 	// If the bundled Mooshroom Spawn mod should be enabled.
-	"enableMooshroomSpawn": true,
+	"enableMooshroomSpawn": false,
 	// If the bundled Mooshroom Tweaks mod should be enabled.
-	"enableMooshroomTweaks": true,
+	"enableMooshroomTweaks": false,
 	// If the bundled More Zombie Villagers mod should be enabled.
 	"enableMoreZombieVillagers": true,
 	// If the bundled Skeleton Horse Spawn mod should be enabled.

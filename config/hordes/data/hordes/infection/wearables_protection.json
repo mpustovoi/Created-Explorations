@@ -406,5 +406,149 @@
   {
     "item": "create_things_and_misc:sticky_boots_boots",
     "protection": 0.33
+  },
+  {
+    "item": "immersive_armors:bone_helmet",
+    "protection": 0.05
+  },
+  {
+    "item": "immersive_armors:bone_chestplate",
+    "protection": 0.05
+  },
+  {
+    "item": "immersive_armors:bone_leggings",
+    "protection": 0.05
+  },
+  {
+    "item": "immersive_armors:bone_boots",
+    "protection": 0.05
+  },
+  {
+    "item": "immersive_armors:wither_helmet",
+    "protection": 0.1
+  },
+  {
+    "item": "immersive_armors:wither_chestplate",
+    "protection": 0.1
+  },
+  {
+    "item": "immersive_armors:wither_leggings",
+    "protection": 0.1
+  },
+  {
+    "item": "immersive_armors:wither_boots",
+    "protection": 0.1
+  },
+  {
+    "item": "immersive_armors:divine_helmet",
+    "protection": 0.05
+  },
+  {
+    "item": "immersive_armors:divine_chestplate",
+    "protection": 0.05
+  },
+  {
+    "item": "immersive_armors:divine_leggings",
+    "protection": 0.05
+  },
+  {
+    "item": "immersive_armors:divine_boots",
+    "protection": 0.05
+  },
+  {
+    "item": "immersive_armors:heavy_helmet",
+    "protection": 0.5
+  },
+  {
+    "item": "immersive_armors:heavy_chestplate",
+    "protection": 0.5
+  },
+  {
+    "item": "immersive_armors:heavy_leggings",
+    "protection": 0.5
+  },
+  {
+    "item": "immersive_armors:heavy_boots",
+    "protection": 0.5
+  },
+  {
+    "item": "immersive_armors:warrior_helmet",
+    "protection": 0.05
+  },
+  {
+    "item": "immersive_armors:warrior_chestplate",
+    "protection": 0.05
+  },
+  {
+    "item": "immersive_armors:warrior_leggings",
+    "protection": 0.05
+  },
+  {
+    "item": "immersive_armors:warrior_boots",
+    "protection": 0.05
+  },
+  {
+    "item": "immersive_armors:prismarine_helmet",
+    "protection": 0.25
+  },
+  {
+    "item": "immersive_armors:prismarine_chestplate",
+    "protection": 0.25
+  },
+  {
+    "item": "immersive_armors:prismarine_leggings",
+    "protection": 0.25
+  },
+  {
+    "item": "immersive_armors:prismarine_boots",
+    "protection": 0.25
+  },
+  {
+    "item": "immersive_armors:slime_helmet",
+    "protection": 0.15
+  },
+  {
+    "item": "immersive_armors:slime_chestplate",
+    "protection": 0.15
+  },
+  {
+    "item": "immersive_armors:slime_leggings",
+    "protection": 0.15
+  },
+  {
+    "item": "immersive_armors:slime_boots",
+    "protection": 0.15
+  },
+  {
+    "item": "immersive_armors:steampunk_helmet",
+    "protection": 0.2
+  },
+  {
+    "item": "immersive_armors:steampunk_chestplate",
+    "protection": 0.2
+  },
+  {
+    "item": "immersive_armors:steampunk_leggings",
+    "protection": 0.2
+  },
+  {
+    "item": "immersive_armors:steampunk_boots",
+    "protection": 0.2
+  },
+  {
+    "item": "immersive_armors:wooden_helmet",
+    "protection": 0.3
+  },
+  {
+    "item": "immersive_armors:wooden_chestplate",
+    "protection": 0.3
+  },
+  {
+    "item": "immersive_armors:wooden_leggings",
+    "protection": 0.3
+  },
+  {
+    "item": "immersive_armors:wooden_boots",
+    "protection": 0.3
   }
 ]

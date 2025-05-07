@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "group": "copper_nugget",
+  "ingredient": [
+    {
+      "item": "create_dragons_plus:fluid_hatch"
+    }
+  ],
+  "result": {
+    "id": "create:copper_nugget"
+  },
+  "experience": 0.0,
+  "cookingtime": 20
+}

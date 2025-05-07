@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "group": "copper_nugget",
+  "ingredient": [
+    {
+      "item": "create_aquatic_ambitions:prismarine_alloy"
+    }
+  ],
+  "result": {
+    "id": "create:copper_nugget"
+  },
+  "experience": 0.0,
+  "cookingtime": 20
+}

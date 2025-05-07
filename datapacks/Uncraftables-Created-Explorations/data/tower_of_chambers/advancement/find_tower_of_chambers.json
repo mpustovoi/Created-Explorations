@@ -15,7 +15,7 @@
     }
   },
   "criteria": {
-    "tower_chambers": {
+    "tower_chamber": {
       "trigger": "minecraft:location",
       "conditions": {
         "player": [
@@ -24,7 +24,7 @@
             "entity": "this",
             "predicate": {
               "location": {
-                "structures": "tower_of_chambers:tower_chambers"
+                "structures": "tower_of_chambers:tower_chamber"
               }
             }
           }
@@ -48,7 +48,7 @@
       }
     }
   },
-  "requirements": [["tower_chambers", "towerofchamber"]],
+  "requirements": [["tower_chamber", "towerofchamber"]],
   "sends_telemetry_event": true,
   "rewards": {
     "experience": 50

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:smelting",
+  "group": "copper_nugget",
+  "ingredient": [
+    {
+      "item": "create_things_and_misc:copper_casing_trapdoor"
+    },
+    {
+      "item": "create_things_and_misc:sprinkler_head"
+    },
+    {
+      "item": "create_things_and_misc:copper_knife"
+    },
+    {
+      "item": "create_things_and_misc:magnifying_glass"
+    },
+    {
+      "item": "create_things_and_misc:empty_card"
+    }
+  ],
+  "result": {
+    "id": "create:copper_nugget"
+  },
+  "experience": 0.0,
+  "cookingtime": 20
+}

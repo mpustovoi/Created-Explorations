@@ -5,12 +5,6 @@
       "values": ["create_aquatic_ambitions"]
     }
   ],
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "create_aquatic_ambitions"
-    }
-  ],
   "neoforge:conditions": [
     {
       "type": "neoforge:mod_loaded",

@@ -3,6 +3,9 @@
   "group": "netherite_scrap",
   "ingredient": [
     {
+      "item": "supplementaries:safe"
+    },
+    {
       "item": "supplementaries:netherite_door"
     },
     {
