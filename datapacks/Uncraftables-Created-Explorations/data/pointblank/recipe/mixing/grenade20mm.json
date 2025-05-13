@@ -1,4 +1,10 @@
 {
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
   "type": "create:mixing",
   "ingredients": [
     {
@@ -16,5 +22,5 @@
       "id": "pointblank:grenade20mm"
     }
   ],
-  "heatRequirement": "none"
+  "heat_requirement": "none"
 }

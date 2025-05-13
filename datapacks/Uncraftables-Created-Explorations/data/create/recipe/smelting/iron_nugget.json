@@ -3,18 +3,36 @@
   "group": "iron_nugget",
   "ingredient": [
     {
-      "item": "create:industrial_iron_block"
+      "tag": "create:iron_blocks"
     },
     {
-      "item": "create:industrial_iron_window"
+      "item": "create:iron_sheet"
     },
     {
-      "item": "create:ornate_iron_window"
+      "item": "create:minecart_coupling"
+    },
+    {
+      "item": "create:whisk"
+    },
+    {
+      "item": "create:propeller"
+    },
+    {
+      "item": "create:super_glue"
+    },
+    {
+      "item": "create:electron_tube"
+    },
+    {
+      "item": "create:nixie_tube"
+    },
+    {
+      "item": "create:smart_chute"
     }
   ],
   "result": {
     "id": "minecraft:iron_nugget"
   },
   "experience": 0.0,
-  "cookingtime": 20
+  "cookingtime": 200
 }

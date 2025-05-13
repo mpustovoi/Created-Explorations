@@ -1,0 +1,26 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": ["create"]
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "enderitemod:enderite_ore"
+    }
+  ],
+  "processing_time": 600,
+  "results": [
+    {
+      "id": "enderitemod:cracked_enderite_ore"
+    }
+  ]
+}

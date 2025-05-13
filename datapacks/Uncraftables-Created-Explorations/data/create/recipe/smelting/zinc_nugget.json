@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smelting",
+  "group": "zinc_nugget",
+  "ingredient": [
+    {
+      "item": "create:package_filter"
+    },
+    {
+      "item": "create:rose_quartz_lamp"
+    }
+  ],
+  "result": {
+    "id": "create:zinc_nugget"
+  },
+  "experience": 0.0,
+  "cookingtime": 200
+}

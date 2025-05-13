@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "group": "gold_ingot",
+  "ingredient": {
+    "item": "bagofholding:golden_bag_of_holding"
+  },
+  "result": {
+    "id": "minecraft:gold_nugget"
+  },
+  "experience": 0.0,
+  "cookingtime": 200
+}

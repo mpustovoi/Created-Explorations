@@ -1,0 +1,14 @@
+{
+  "values": [
+    "minecraft:turtle_egg",
+    "minecraft:sniffer_egg",
+    {
+      "id": "friendsandfoes:crab_egg",
+      "required": false
+    },
+    {
+      "id": "ends_delight:non_hatchable_dragon_egg",
+      "required": false
+    }
+  ]
+}

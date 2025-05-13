@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smelting",
+  "group": "copper_nugget",
+  "ingredient": [
+    {
+      "item": "create_enchantment_industry:experience_lantern"
+    },
+    {
+      "item": "create_enchantment_industry:printer"
+    }
+  ],
+  "result": {
+    "id": "create:copper_nugget"
+  },
+  "experience": 0.0,
+  "cookingtime": 200
+}

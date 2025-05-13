@@ -1,0 +1,50 @@
+{
+  "type": "minecraft:smelting",
+  "group": "brass_ingot",
+  "ingredient": [
+    {
+      "item": "create_sa:brass_jetpack_chestplate"
+    },
+    {
+      "item": "create_sa:steam_engine"
+    },
+    {
+      "item": "create_sa:brass_drone_item"
+    },
+    {
+      "item": "create_sa:brass_drill_head"
+    },
+    {
+      "item": "create_sa:brass_helmet"
+    },
+    {
+      "item": "create_sa:brass_chestplate"
+    },
+    {
+      "item": "create_sa:brass_leggings"
+    },
+    {
+      "item": "create_sa:brass_boots"
+    },
+    {
+      "item": "create_sa:brass_sword"
+    },
+    {
+      "item": "create_sa:brass_axe"
+    },
+    {
+      "item": "create_sa:brass_pickaxe"
+    },
+    {
+      "item": "create_sa:brass_shovel"
+    },
+    {
+      "item": "create_sa:brass_hoe"
+    }
+  ],
+  "result": {
+    "id": "create:brass_ingot"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

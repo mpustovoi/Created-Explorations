@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:blasting",
+  "group": "gunmetal_ingot",
+  "ingredient": [
+    {
+      "tag": "pointblank:attachments/complex"
+    },
+    {
+      "tag": "pointblank:attachments/underbarrel/all"
+    },
+    {
+      "tag": "pointblank:firearms/all"
+    },
+    {
+      "item": "pointblank:workstation"
+    },
+    {
+      "item": "pointblank:printer"
+    }
+  ],
+  "result": {
+    "id": "pointblank:gunmetal_ingot"
+  },
+  "experience": 0.1,
+  "cookingtime": 1200
+}

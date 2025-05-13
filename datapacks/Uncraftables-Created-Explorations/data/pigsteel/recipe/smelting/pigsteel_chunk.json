@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smelting",
+  "group": "pigsteel_chunk",
+  "ingredient": [
+    {
+      "tag": "pigsteel:pigsteel/cut"
+    },
+    {
+      "tag": "pigsteel:pigsteel/lanterns"
+    }
+  ],
+  "result": {
+    "id": "pigsteel:pigsteel_chunk"
+  },
+  "experience": 0.0,
+  "cookingtime": 200
+}

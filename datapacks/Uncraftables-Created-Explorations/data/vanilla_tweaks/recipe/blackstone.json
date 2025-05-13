@@ -1,7 +1,7 @@
 {
   "result": {
     "id": "minecraft:blackstone",
-    "count": 4
+    "count": 2
   },
   "type": "crafting_shaped",
   "pattern": ["$#", "#$"],
@@ -10,7 +10,7 @@
       "item": "minecraft:basalt"
     },
     "$": {
-      "tag": "minecraft:coals"
+      "item": "minecraft:coal"
     }
   }
 }

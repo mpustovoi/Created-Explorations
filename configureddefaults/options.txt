@@ -274,6 +274,7 @@ key_key.create_sa.increase_reach:key.keyboard.up
 key_key.create_sa.decrease_reach:key.keyboard.down
 key_key.firstperson.toggle:key.keyboard.f6
 key_key.entityculling.toggle:key.keyboard.unknown
+key_key.createrailwaysnavigator.route_overlay_options:key.keyboard.r
 key_keybind.invmove.toggleMove:key.keyboard.unknown
 soundCategory_master:0.5
 soundCategory_music:0.5

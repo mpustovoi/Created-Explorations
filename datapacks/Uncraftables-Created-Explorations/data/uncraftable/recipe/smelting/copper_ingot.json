@@ -3,55 +3,16 @@
   "group": "copper_ingot",
   "ingredient": [
     {
-      "item": "minecraft:lightning_rod"
+      "tag": "uncraftable:copper/lightning_rods"
     },
     {
-      "item": "minecraft:copper_door"
+      "tag": "uncraftable:copper/bulbs"
     },
     {
-      "item": "minecraft:exposed_copper_door"
+      "tag": "uncraftable:copper/doors"
     },
     {
-      "item": "minecraft:weathered_copper_door"
-    },
-    {
-      "item": "minecraft:oxidized_copper_door"
-    },
-    {
-      "item": "minecraft:waxed_copper_door"
-    },
-    {
-      "item": "minecraft:waxed_exposed_copper_door"
-    },
-    {
-      "item": "minecraft:waxed_weathered_copper_door"
-    },
-    {
-      "item": "minecraft:waxed_oxidized_copper_door"
-    },
-    {
-      "item": "minecraft:copper_trapdoor"
-    },
-    {
-      "item": "minecraft:exposed_copper_trapdoor"
-    },
-    {
-      "item": "minecraft:weathered_copper_trapdoor"
-    },
-    {
-      "item": "minecraft:oxidized_copper_trapdoor"
-    },
-    {
-      "item": "minecraft:waxed_copper_trapdoor"
-    },
-    {
-      "item": "minecraft:waxed_exposed_copper_trapdoor"
-    },
-    {
-      "item": "minecraft:waxed_weathered_copper_trapdoor"
-    },
-    {
-      "item": "minecraft:waxed_oxidized_copper_trapdoor"
+      "tag": "uncraftable:copper/trapdoors"
     }
   ],
   "result": {

@@ -5,7 +5,7 @@
       "item": "deeperdarker:echo_log"
     }
   ],
-  "processingTime": 50,
+  "processing_time": 50,
   "results": [
     {
       "id": "deeperdarker:stripped_echo_log"

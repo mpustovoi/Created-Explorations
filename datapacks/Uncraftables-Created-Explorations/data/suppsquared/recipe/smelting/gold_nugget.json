@@ -3,6 +3,9 @@
   "group": "gold_nugget",
   "ingredient": [
     {
+      "tag": "suppsquared:gold_candle_holders"
+    },
+    {
       "item": "suppsquared:gold_plaque"
     },
     {
@@ -13,5 +16,5 @@
     "id": "minecraft:gold_nugget"
   },
   "experience": 0.0,
-  "cookingtime": 20
+  "cookingtime": 200
 }

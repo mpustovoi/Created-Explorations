@@ -1,0 +1,62 @@
+{
+  "type": "minecraft:smelting",
+  "group": "brass_nugget",
+  "ingredient": [
+    {
+      "item": "createcasing:brass_gearbox"
+    },
+    {
+      "item": "createcasing:vertical_brass_gearbox"
+    },
+    {
+      "item": "createcasing:brass_mixer"
+    },
+    {
+      "item": "createcasing:brass_press"
+    },
+    {
+      "item": "createcasing:brass_depot"
+    },
+    {
+      "item": "createcasing:brass_encased_chain_drive"
+    },
+    {
+      "item": "createcasing:brass_adjustable_chain_gearshift"
+    },
+    {
+      "item": "createcasing:brass_configurable_gearbox"
+    },
+    {
+      "item": "createcasing:brass_shaft"
+    },
+    {
+      "item": "createcasing:railway_gearbox"
+    },
+    {
+      "item": "createcasing:vertical_railway_gearbox"
+    },
+    {
+      "item": "createcasing:railway_mixer"
+    },
+    {
+      "item": "createcasing:railway_press"
+    },
+    {
+      "item": "createcasing:railway_depot"
+    },
+    {
+      "item": "createcasing:railway_encased_chain_drive"
+    },
+    {
+      "item": "createcasing:railway_adjustable_chain_gearshift"
+    },
+    {
+      "item": "createcasing:railway_configurable_gearbox"
+    }
+  ],
+  "result": {
+    "id": "create:brass_nugget"
+  },
+  "experience": 0.0,
+  "cookingtime": 200
+}

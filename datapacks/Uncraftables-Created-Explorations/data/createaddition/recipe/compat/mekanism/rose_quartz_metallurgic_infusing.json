@@ -1,20 +1,21 @@
 {
-  "conditions": [
+  "neoforge:conditions": [
     {
       "type": "neoforge:mod_loaded",
-      "modid": "createaddition_mekanism"
+      "modid": "mekanism"
     }
   ],
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    {
-      "item": "minecraft:redstone"
-    },
-    {
-      "item": "minecraft:quartz"
-    }
-  ],
-  "result": {
+  "type": "mekanism:metallurgic_infusing",
+  "chemical_input": {
+    "amount": 10,
+    "tag": "mekanism:redstone"
+  },
+  "item_input": {
+    "count": 1,
+    "tag": "c:gems/quartz"
+  },
+  "output": {
+    "count": 1,
     "id": "create:rose_quartz"
   }
 }

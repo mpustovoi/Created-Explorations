@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smelting",
+  "group": "brass_nugget",
+  "ingredient": [
+    {
+      "item": "createaddition:brass_rod"
+    },
+    {
+      "item": "createaddition:modular_accumulator"
+    }
+  ],
+  "result": {
+    "id": "create:brass_nugget"
+  },
+  "experience": 0.0,
+  "cookingtime": 200
+}

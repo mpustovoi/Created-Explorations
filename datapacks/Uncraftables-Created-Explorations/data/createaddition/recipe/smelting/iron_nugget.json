@@ -10,11 +10,17 @@
     },
     {
       "item": "createaddition:iron_rod"
+    },
+    {
+      "item": "createaddition:redstone_relay"
+    },
+    {
+      "item": "createaddition:rolling_mill"
     }
   ],
   "result": {
     "id": "minecraft:iron_nugget"
   },
   "experience": 0.0,
-  "cookingtime": 20
+  "cookingtime": 200
 }

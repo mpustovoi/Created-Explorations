@@ -1,12 +1,14 @@
 {
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
   "type": "create:mechanical_crafting",
   "accept_mirrored": false,
   "category": "misc",
-  "pattern": [
-    "G#G",
-    " P ",
-    "SSS"
-  ],
+  "pattern": ["G#G", "WPW", "SSS"],
   "key": {
     "G": [
       {
@@ -19,6 +21,11 @@
       }
     ],
     "P": [
+      {
+        "item": "pointblank:printer"
+      }
+    ],
+    "W": [
       {
         "tag": "minecraft:logs"
       }

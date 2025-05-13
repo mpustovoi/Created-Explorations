@@ -1,8 +1,17 @@
 {
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
   "type": "create:mixing",
   "ingredients": [
     {
       "item": "minecraft:copper_ingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
     },
     {
       "item": "minecraft:iron_ingot"
@@ -16,5 +25,5 @@
       "id": "pointblank:grenade40mm"
     }
   ],
-  "heatRequirement": "none"
+  "heat_requirement": "none"
 }

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NIN",
+    "NIN"
+  ],
+  "key": {
+    "N": {
+      "tag": "c:nuggets/gold"
+    },
+    "I": {
+      "tag": "c:ingots/gold"
+    }
+  },
+  "result": {
+    "id": "supplementaries:gold_gate",
+    "count": 2
+  }
+}

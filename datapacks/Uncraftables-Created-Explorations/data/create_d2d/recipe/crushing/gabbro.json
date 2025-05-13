@@ -1,0 +1,30 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": ["createsifter"]
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "createsifter"
+    }
+  ],
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create_d2d:gabbro"
+    }
+  ],
+  "processing_time": 500,
+  "results": [
+    {
+      "id": "createsifter:crushed_netherrack"
+    },
+    {
+      "chance": 0.25,
+      "id": "create:powdered_obsidian"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:smelting",
+  "group": "brass_nugget",
+  "ingredient": [
+    {
+      "tag": "create:brass_blocks"
+    },
+    {
+      "item": "create:attribute_filter"
+    },
+    {
+      "item": "create:brass_sheet"
+    },
+    {
+      "item": "create:brass_hand"
+    },
+    {
+      "item": "create:controls"
+    },
+    {
+      "item": "create:extendo_grip"
+    },
+    {
+      "item": "create:wand_of_symmetry"
+    },
+    {
+      "item": "create:crafter_slot_cover"
+    },
+    {
+      "item": "create:train_door"
+    },
+    {
+      "item": "create:train_trapdoor"
+    }
+  ],
+  "result": {
+    "id": "create:brass_nugget"
+  },
+  "experience": 0.0,
+  "cookingtime": 200
+}

@@ -1,0 +1,25 @@
+{
+  "values": [
+    "create:brass_bars",
+    "create:brass_casing",
+    "create:brass_door",
+    "create:brass_funnel",
+    "create:brass_ladder",
+    "create:brass_scaffolding",
+    "create:brass_table_cloth",
+    "create:brass_tunnel",
+    "create:content_observer",
+    "create:controls",
+    "create:deployer",
+    "create:elevator_pulley",
+    "create:mechanical_arm",
+    "create:placard",
+    "create:pulse_extender",
+    "create:pulse_repeater",
+    "create:pulse_timer",
+    "create:railway_casing",
+    "create:rotation_speed_controller",
+    "create:sequenced_gearshift",
+    "create:stockpile_switch"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "values": [
+    "minecraft:polished_basalt",
+    {
+      "id": "create_d2d:cut_basalt",
+      "required": false
+    },
+    {
+      "id": "create_d2d:cut_basalt_stairs",
+      "required": false
+    },
+    {
+      "id": "create_d2d:cut_basalt_wall",
+      "required": false
+    },
+    {
+      "id": "create_d2d:polished_cut_basalt",
+      "required": false
+    },
+    {
+      "id": "create_d2d:polished_cut_basalt_stairs",
+      "required": false
+    },
+    {
+      "id": "create_d2d:polished_cut_basalt_wall",
+      "required": false
+    },
+    {
+      "id": "create_d2d:cut_basalt_bricks",
+      "required": false
+    },
+    {
+      "id": "create_d2d:cut_basalt_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "create_d2d:cut_basalt_brick_wall",
+      "required": false
+    },
+    {
+      "id": "create_d2d:small_basalt_bricks",
+      "required": false
+    },
+    {
+      "id": "create_d2d:small_basalt_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "create_d2d:small_basalt_brick_wall",
+      "required": false
+    },
+    {
+      "id": "create_d2d:layered_basalt",
+      "required": false
+    },
+    {
+      "id": "create_d2d:basalt_pillar",
+      "required": false
+    }
+  ]
+}

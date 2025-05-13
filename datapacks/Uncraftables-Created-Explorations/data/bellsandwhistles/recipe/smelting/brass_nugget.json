@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smelting",
+  "group": "brass_nugget",
+  "ingredient": [
+    {
+      "item": "bellsandwhistles:brass_bogie_steps"
+    },
+    {
+      "item": "bellsandwhistles:brass_grab_rails"
+    },
+    {
+      "item": "bellsandwhistles:brass_door_step"
+    },
+    {
+      "item": "bellsandwhistles:brass_pilot"
+    }
+  ],
+  "result": {
+    "id": "create:brass_nugget"
+  },
+  "experience": 0.0,
+  "cookingtime": 200
+}

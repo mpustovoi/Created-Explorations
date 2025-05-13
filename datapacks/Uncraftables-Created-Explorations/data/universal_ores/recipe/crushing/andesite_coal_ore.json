@@ -1,0 +1,40 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "universal_ores:andesite_coal_ore"
+    }
+  ],
+  "processing_time": 150,
+  "results": [
+    {
+      "id": "minecraft:coal"
+    },
+    {
+      "chance": 0.75,
+      "id": "minecraft:coal"
+    },
+    {
+      "chance": 0.75,
+      "id": "create:experience_nugget"
+    },
+    {
+      "count": 1,
+      "id": "createsifter:andesite_pebble"
+    },
+    {
+      "chance": 0.25,
+      "id": "createsifter:andesite_pebble"
+    },
+    {
+      "chance": 0.125,
+      "id": "minecraft:quartz"
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ]
+}

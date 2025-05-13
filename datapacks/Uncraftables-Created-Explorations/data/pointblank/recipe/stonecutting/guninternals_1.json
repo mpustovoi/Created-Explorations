@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "tag": "pointblank:attachments/complex"
+    }
+  ],
+  "result": {
+    "id": "pointblank:guninternals",
+    "count": 1
+  }
+}

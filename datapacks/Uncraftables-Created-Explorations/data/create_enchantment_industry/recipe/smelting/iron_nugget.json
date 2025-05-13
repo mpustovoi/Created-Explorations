@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smelting",
+  "group": "iron_nugget",
+  "ingredient": [
+    {
+      "item": "create_enchantment_industry:blaze_forger"
+    },
+    {
+      "item": "create_enchantment_industry:blaze_enchanter"
+    }
+  ],
+  "result": {
+    "id": "minecraft:iron_nugget"
+  },
+  "experience": 0.0,
+  "cookingtime": 200
+}

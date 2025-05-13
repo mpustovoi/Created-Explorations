@@ -1,17 +1,41 @@
 {
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
   "type": "create:mixing",
   "ingredients": [
     {
       "item": "pointblank:gunmetal_ingot"
     },
     {
-      "item": "minecraft:iron_block"
+      "item": "pointblank:gunmetal_ingot"
     },
     {
-      "item": "create:zinc_block"
+      "item": "pointblank:gunmetal_ingot"
     },
     {
-      "item": "minecraft:copper_block"
+      "item": "pointblank:gunmetal_ingot"
+    },
+    {
+      "item": "pointblank:gunmetal_ingot"
+    },
+    {
+      "item": "pointblank:gunmetal_ingot"
+    },
+    {
+      "item": "pointblank:gunmetal_ingot"
+    },
+    {
+      "item": "pointblank:gunmetal_ingot"
+    },
+    {
+      "item": "pointblank:gunmetal_ingot"
+    },
+    {
+      "item": "pointblank:gunmetal_ingot"
     },
     {
       "item": "minecraft:tnt"
@@ -22,5 +46,5 @@
       "id": "pointblank:smaw_rocket"
     }
   ],
-  "heatRequirement": "heated"
+  "heat_requirement": "heated"
 }

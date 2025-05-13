@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "group": "iron_nugget",
+  "ingredient": {
+    "item": "betterarcheology:iron_brush"
+  },
+  "result": {
+    "id": "minecraft:iron_nugget"
+  },
+  "experience": 0.0,
+  "cookingtime": 200
+}

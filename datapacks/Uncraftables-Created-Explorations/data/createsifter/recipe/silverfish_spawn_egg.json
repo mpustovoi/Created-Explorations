@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "T": {
+      "item": "minecraft:ghast_tear"
+    },
+    "S": {
+      "item": "createsifter:raw_silver_piece"
+    }
+  },
+  "pattern": ["SSS", "STS", "SSS"],
+  "result": {
+    "count": 1,
+    "id": "minecraft:silverfish_spawn_egg"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [" XX", "XYY"],
+  "key": {
+    "X": {
+      "item": "pointblank:gunmetal_ingot"
+    },
+    "Y": {
+      "item": "create:iron_sheet"
+    }
+  },
+  "result": {
+    "id": "pointblank:guninternals"
+  },
+  "show_notification": true
+}

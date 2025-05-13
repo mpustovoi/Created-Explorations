@@ -1,0 +1,13 @@
+{
+  "values": [
+    "#pointblank:attachments/barrel",
+    "#pointblank:attachments/complex",
+    "#pointblank:attachments/grips",
+    "#pointblank:attachments/scopes",
+    "#pointblank:attachments/sights",
+    "#pointblank:attachments/sniper_scopes",
+    "#pointblank:attachments/stocks",
+    "#pointblank:attachments/underbarrel/all",
+    "pointblank:guninternals"
+  ]
+}

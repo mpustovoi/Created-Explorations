@@ -1,0 +1,32 @@
+{
+  "values": [
+    "create:blaze_burner",
+    "create:chute",
+    "create:clockwork_bearing",
+    "create:contraption_controls",
+    "create:display_board",
+    "create:empty_blaze_burner",
+    "create:filter",
+    "create:industrial_iron_block",
+    "create:industrial_iron_window",
+    "create:item_vault",
+    "create:mechanical_drill",
+    "create:mechanical_harvester",
+    "create:mechanical_plough",
+    "create:mechanical_roller",
+    "create:mechanical_saw",
+    "create:metal_bracket",
+    "create:metal_girder",
+    "create:ornate_iron_window",
+    "create:package_frogport",
+    "create:packager",
+    "create:redstone_contact",
+    "create:redstone_requester",
+    "create:repackager",
+    "create:rope_pulley",
+    "create:track_station",
+    "create:track",
+    "create:weathered_iron_block",
+    "create:weathered_iron_window"
+  ]
+}

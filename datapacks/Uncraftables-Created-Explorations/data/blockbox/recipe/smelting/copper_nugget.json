@@ -15,33 +15,12 @@
   "group": "copper_nugget",
   "ingredient": [
     {
-      "item": "blockbox:copper_bars"
-    },
-    {
-      "item": "blockbox:exposed_copper_bars"
-    },
-    {
-      "item": "blockbox:weathered_copper_bars"
-    },
-    {
-      "item": "blockbox:oxidized_copper_bars"
-    },
-    {
-      "item": "blockbox:waxed_copper_bars"
-    },
-    {
-      "item": "blockbox:waxed_exposed_copper_bars"
-    },
-    {
-      "item": "blockbox:waxed_weathered_copper_bars"
-    },
-    {
-      "item": "blockbox:waxed_oxidized_copper_bars"
+      "tag": "blockbox:copper_blocks"
     }
   ],
   "result": {
     "id": "create:copper_nugget"
   },
   "experience": 0.0,
-  "cookingtime": 20
+  "cookingtime": 200
 }

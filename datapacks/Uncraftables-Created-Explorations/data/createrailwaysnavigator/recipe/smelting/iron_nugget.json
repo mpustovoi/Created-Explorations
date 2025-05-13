@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smelting",
+  "group": "iron_nugget",
+  "ingredient": [
+    {
+      "item": "createrailwaysnavigator:train_station_clock"
+    },
+    {
+      "item": "createrailwaysnavigator:navigator"
+    }
+  ],
+  "result": {
+    "id": "minecraft:iron_nugget"
+  },
+  "experience": 0.0,
+  "cookingtime": 200
+}

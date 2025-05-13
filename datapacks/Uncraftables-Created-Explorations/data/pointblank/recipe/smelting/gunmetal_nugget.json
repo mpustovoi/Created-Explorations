@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "group": "gunmetal_nugget",
+  "ingredient": [
+    {
+      "tag": "pointblank:skins/all"
+    }
+  ],
+  "result": {
+    "id": "pointblank:gunmetal_nugget"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

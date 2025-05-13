@@ -12,6 +12,9 @@
       "item": "create_sa:large_filling_tank"
     },
     {
+      "item": "create_sa:hydraulic_engine"
+    },
+    {
       "item": "create_sa:copper_helmet"
     },
     {
@@ -43,5 +46,5 @@
     "id": "create:copper_nugget"
   },
   "experience": 0.0,
-  "cookingtime": 20
+  "cookingtime": 200
 }

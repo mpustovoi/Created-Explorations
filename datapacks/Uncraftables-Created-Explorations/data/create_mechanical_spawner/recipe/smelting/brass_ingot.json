@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smelting",
+  "group": "brass_block",
+  "ingredient": [
+    {
+      "item": "create_mechanical_spawner:mechanical_spawner"
+    },
+    {
+      "item": "create_mechanical_spawner:loot_collector"
+    }
+  ],
+  "result": {
+    "id": "create:brass_block"
+  },
+  "experience": 1.0,
+  "cookingtime": 1800
+}

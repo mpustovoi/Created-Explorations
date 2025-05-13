@@ -4,6 +4,9 @@
   "ingredient": [
     {
       "item": "create_d2d:burner"
+    },
+    {
+      "item": "create_d2d:gatling_breaker"
     }
   ],
   "result": {

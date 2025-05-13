@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smelting",
+  "group": "gold_nugget",
+  "ingredient": [
+    {
+      "tag": "blockbox:gold_blocks"
+    },
+    {
+      "item": "blockbox:golden_bars"
+    }
+  ],
+  "result": {
+    "id": "minecraft:gold_nugget"
+  },
+  "experience": 0.0,
+  "cookingtime": 200
+}

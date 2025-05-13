@@ -1,0 +1,10 @@
+{
+  "values": [
+    "#pointblank:firearms/heavy_weapons",
+    "#pointblank:firearms/machine_guns",
+    "#pointblank:firearms/pistols",
+    "#pointblank:firearms/rifles",
+    "#pointblank:firearms/shotguns",
+    "#pointblank:firearms/sniper_rifles"
+  ]
+}

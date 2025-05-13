@@ -1,14 +1,26 @@
 {
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": ["deeperdarker"]
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "deeperdarker"
+    }
+  ],
   "type": "create:crushing",
   "ingredients": [
     {
       "item": "deeperdarker:gloomslate_emerald_ore"
     }
   ],
-  "processingTime": 550,
+  "processing_time": 550,
   "results": [
     {
-      "count": 3,
+      "count": 9,
       "id": "minecraft:emerald"
     },
     {

@@ -7,6 +7,24 @@
     },
     {
       "item": "create:steam_engine"
+    },
+    {
+      "item": "create:transmitter"
+    },
+    {
+      "item": "create:stock_link"
+    },
+    {
+      "item": "create:display_link"
+    },
+    {
+      "item": "create:redstone_link"
+    },
+    {
+      "item": "create:linked_controller"
+    },
+    {
+      "item": "create:potato_cannon"
     }
   ],
   "result": {

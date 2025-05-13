@@ -3,54 +3,27 @@
   "group": "copper_nugget",
   "ingredient": [
     {
-      "item": "create:copper_valve_handle"
+      "tag": "create:copper_blocks"
     },
     {
-      "item": "create:fluid_tank"
+      "tag": "create:valve_handles"
     },
     {
-      "item": "create:fluid_pipe"
-    },
-    {
-      "item": "create:smart_fluid_pipe"
-    },
-    {
-      "item": "create:item_drain"
-    },
-    {
-      "item": "create:hose_pulley"
+      "item": "create:copper_sheet"
     },
     {
       "item": "create:transmitter"
-    },
-    {
-      "item": "create:copper_casing"
-    },
-    {
-      "item": "create:copper_table_cloth"
     },
     {
       "item": "create:copper_diving_helmet"
     },
     {
       "item": "create:copper_diving_boots"
-    },
-    {
-      "item": "create:copper_ladder"
-    },
-    {
-      "item": "create:copper_bars"
-    },
-    {
-      "item": "create:copper_scaffolding"
-    },
-    {
-      "item": "create:copper_door"
     }
   ],
   "result": {
     "id": "create:copper_nugget"
   },
   "experience": 0.0,
-  "cookingtime": 20
+  "cookingtime": 200
 }

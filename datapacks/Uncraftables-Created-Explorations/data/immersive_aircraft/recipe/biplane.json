@@ -1,14 +1,20 @@
 {
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": ["create"]
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
   "type": "create:mechanical_crafting",
   "accept_mirrored": true,
   "category": "misc",
-  "pattern": [
-    "   S ",
-    "S  S ",
-    "HH_EP",
-    "S  S ",
-    "   S "
-  ],
+  "pattern": ["   S ", "S  S ", "HH_EP", "S  S ", "   S "],
   "key": {
     "H": [
       {

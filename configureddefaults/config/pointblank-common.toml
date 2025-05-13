@@ -12,11 +12,11 @@ resetAutoFirePitchEnabled = true
 # Range: 0.1 ~ 2.0
 knockback = 1.0
 #Enables particle effects
-particleEffectsEnabled = false
+particleEffectsEnabled = true
 #Sets the likelihood of an 'Arms Dealer' house appearing in new villages, with higher values increasing frequency and lower values making it rarer.
 # Default: 10
 # Range: 0 ~ 20
-armsDealerHouse = 2
+armsDealerHouse = 1
 #Set the exchange rate to determine how many in-game price units are equivalent to one emerald.
 # Default: 100.0
 # Range: 1.0 ~ 1000.0
@@ -48,11 +48,11 @@ explosionDestroyBlocksEnabled = true
 #Sets the probability of dropping some item(s) by monster mobs.
 # Default: 0.35
 # Range: 0.0 ~ 1.0
-itemDropChance = 0.35
+itemDropChance = 0.01
 #Sets the max count of items to be dropped by a monster mob.
 # Default: 7
 # Range: 2 ~ 64
-maxItemDropCount = 7
+maxItemDropCount = 2
 #Enables bullets breaking glass
 bulletsBreakGlassEnabled = true
 #Modifier to adjust damage dealt by hitscan weapons

@@ -1,0 +1,42 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": ["createsifter"]
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "createsifter"
+    }
+  ],
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "create:stone_types/calcite"
+    }
+  ],
+  "processing_time": 150,
+  "results": [
+    {
+      "id": "createsifter:calcite_pebble"
+    },
+    {
+      "chance": 0.5,
+      "id": "createsifter:calcite_pebble"
+    },
+    {
+      "chance": 0.5,
+      "id": "minecraft:bone_meal"
+    },
+    {
+      "chance": 0.1,
+      "id": "createsifter:raw_zinc_piece"
+    },
+    {
+      "chance": 0.1,
+      "id": "createsifter:raw_iron_piece"
+    }
+  ]
+}

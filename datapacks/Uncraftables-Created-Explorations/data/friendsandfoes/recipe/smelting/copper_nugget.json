@@ -15,33 +15,12 @@
   "group": "copper_nugget",
   "ingredient": [
     {
-      "item": "friendsandfoes:copper_button"
-    },
-    {
-      "item": "friendsandfoes:exposed_copper_button"
-    },
-    {
-      "item": "friendsandfoes:weathered_copper_button"
-    },
-    {
-      "item": "friendsandfoes:oxidized_copper_button"
-    },
-    {
-      "item": "friendsandfoes:waxed_copper_button"
-    },
-    {
-      "item": "friendsandfoes:waxed_exposed_copper_button"
-    },
-    {
-      "item": "friendsandfoes:waxed_weathered_copper_button"
-    },
-    {
-      "item": "friendsandfoes:waxed_oxidized_copper_button"
+      "tag": "friendsandfoes:copper_buttons"
     }
   ],
   "result": {
     "id": "create:copper_nugget"
   },
   "experience": 0.0,
-  "cookingtime": 20
+  "cookingtime": 200
 }

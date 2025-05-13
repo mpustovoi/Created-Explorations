@@ -1,14 +1,14 @@
 {
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
   "type": "create:mechanical_crafting",
   "accept_mirrored": false,
   "category": "misc",
-  "pattern": [
-    "IIIII",
-    "ICNGI",
-    "SMSPM",
-    "IG#AI",
-    "IIIII"
-  ],
+  "pattern": ["IIIII", "ICNGI", "SSGPM", "I##AI", "IIIII"],
   "key": {
     "I": [
       {
@@ -17,7 +17,7 @@
     ],
     "M": [
       {
-        "item": "pointblank:gunmetal_nugget"
+        "item": "create:precision_mechanism"
       }
     ],
     "P": [
@@ -47,12 +47,12 @@
     ],
     "S": [
       {
-        "item": "minecraft:glass_pane"
+        "tag": "c:glass_panes"
       }
     ],
     "C": [
       {
-        "item": "minecraft:coal"
+        "tag": "minecraft:coals"
       }
     ]
   },

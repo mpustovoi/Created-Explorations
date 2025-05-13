@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "group": "brass_ingot",
+  "ingredient": [
+    {
+      "item": "create_mechanical_extruder:mechanical_brass_extruder"
+    }
+  ],
+  "result": {
+    "id": "create:brass_ingot"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

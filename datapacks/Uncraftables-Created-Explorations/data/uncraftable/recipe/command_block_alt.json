@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "uncraftable:command_blocks"
+    }
+  ],
+  "result": {
+    "id": "minecraft:command_block"
+  }
+}

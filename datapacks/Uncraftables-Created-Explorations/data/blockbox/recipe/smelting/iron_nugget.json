@@ -3,39 +3,18 @@
   "group": "iron_nugget",
   "ingredient": [
     {
-      "item": "blockbox:iron_plate"
+      "tag": "blockbox:iron_blocks"
     },
     {
-      "item": "blockbox:iron_tread_plate"
+      "item": "blockbox:brazier"
     },
     {
-      "item": "blockbox:iron_tread_plate_stairs"
-    },
-    {
-      "item": "blockbox:iron_tread_plate_slab"
-    },
-    {
-      "item": "blockbox:corrugated_iron_plate"
-    },
-    {
-      "item": "blockbox:corrugated_iron_plate_stairs"
-    },
-    {
-      "item": "blockbox:corrugated_iron_plate_slab"
-    },
-    {
-      "item": "blockbox:iron_plate_pillar"
-    },
-    {
-      "item": "blockbox:iron_plate_door"
-    },
-    {
-      "item": "blockbox:iron_plate_trapdoor"
+      "item": "blockbox:soul_brazier"
     }
   ],
   "result": {
     "id": "minecraft:iron_nugget"
   },
   "experience": 0.0,
-  "cookingtime": 20
+  "cookingtime": 200
 }

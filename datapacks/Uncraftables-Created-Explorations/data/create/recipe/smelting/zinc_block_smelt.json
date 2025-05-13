@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "group": "zinc_block",
+  "ingredient": {
+    "item": "create:raw_zinc_block"
+  },
+  "result": {
+    "id": "create:zinc_block"
+  },
+  "experience": 6.3,
+  "cookingtime": 1500
+}

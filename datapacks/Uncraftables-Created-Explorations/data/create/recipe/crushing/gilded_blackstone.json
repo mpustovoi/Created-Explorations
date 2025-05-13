@@ -1,0 +1,54 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": ["create_d2d", "createsifter"]
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create_d2d"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "createsifter"
+    }
+  ],
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:gilded_blackstone"
+    }
+  ],
+  "processing_time": 400,
+  "results": [
+    {
+      "count": 18,
+      "id": "createsifter:raw_gold_piece"
+    },
+    {
+      "chance": 0.25,
+      "id": "createsifter:raw_gold_piece"
+    },
+    {
+      "chance": 0.75,
+      "id": "create:experience_nugget"
+    },
+    {
+      "id": "createsifter:blackstone_pebble"
+    },
+    {
+      "chance": 0.25,
+      "id": "createsifter:blackstone_pebble"
+    },
+    {
+      "chance": 0.75,
+      "id": "createsifter:basalt_pebble"
+    },
+    {
+      "chance": 0.375,
+      "id": "create_d2d:coal_piece"
+    }
+  ]
+}

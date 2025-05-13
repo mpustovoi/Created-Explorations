@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:smelting",
+  "group": "iron_nugget",
+  "ingredient": [
+    {
+      "item": "bellsandwhistles:metal_pilot"
+    },
+    {
+      "item": "bellsandwhistles:ornate_iron_trapdoor"
+    },
+    {
+      "item": "bellsandwhistles:headlight"
+    }
+  ],
+  "result": {
+    "id": "minecraft:iron_nugget"
+  },
+  "experience": 0.0,
+  "cookingtime": 200
+}

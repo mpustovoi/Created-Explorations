@@ -3,12 +3,42 @@
   "group": "gold_nugget",
   "ingredient": [
     {
+      "tag": "create:stone_types/ochrum"
+    },
+    {
+      "tag": "create:toolboxes"
+    },
+    {
+      "item": "create:golden_sheet"
+    },
+    {
       "item": "create:goggles"
+    },
+    {
+      "item": "create:precision_mechanism"
+    },
+    {
+      "item": "create:controller_rail"
+    },
+    {
+      "item": "create:stock_ticker"
+    },
+    {
+      "item": "create:wrench"
+    },
+    {
+      "item": "create:weighted_ejector"
+    },
+    {
+      "item": "create:steam_whistle"
+    },
+    {
+      "item": "create:desk_bell"
     }
   ],
   "result": {
     "id": "minecraft:gold_nugget"
   },
   "experience": 0.0,
-  "cookingtime": 20
+  "cookingtime": 200
 }

@@ -7,21 +7,15 @@
   "results": [
     {
       "chance": 120.0,
-      "item": {
-        "id": "create_sa:hydraulic_engine"
-      }
+      "id": "create_sa:hydraulic_engine"
     },
     {
       "chance": 8.0,
-      "item": {
-        "id": "create:copper_sheet"
-      }
+      "id": "create:copper_sheet"
     },
     {
       "chance": 4.0,
-      "item": {
-        "id": "create:andesite_alloy"
-      }
+      "id": "create:andesite_alloy"
     }
   ],
   "sequence": [
@@ -39,9 +33,7 @@
       ],
       "results": [
         {
-          "item": {
-            "id": "create_sa:incomplete_hydraulic_engine"
-          }
+          "id": "create_sa:incomplete_hydraulic_engine"
         }
       ]
     },
@@ -57,9 +49,7 @@
       ],
       "results": [
         {
-          "item": {
-            "id": "create_sa:incomplete_hydraulic_engine"
-          }
+          "id": "create_sa:incomplete_hydraulic_engine"
         }
       ]
     },
@@ -75,9 +65,7 @@
       ],
       "results": [
         {
-          "item": {
-            "id": "create_sa:incomplete_hydraulic_engine"
-          }
+          "id": "create_sa:incomplete_hydraulic_engine"
         }
       ]
     },
@@ -90,19 +78,12 @@
       ],
       "results": [
         {
-          "item": {
-            "id": "create_sa:incomplete_hydraulic_engine"
-          }
+          "id": "create_sa:incomplete_hydraulic_engine"
         }
       ]
     }
   ],
   "transitional_item": {
-    "item": {
-      "id": "create_sa:incomplete_hydraulic_engine"
-    }
+    "id": "create_sa:incomplete_hydraulic_engine"
   }
 }
-
-
-

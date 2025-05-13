@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "group": "copper_ingot",
+  "ingredient": [
+    {
+      "tag": "create_vibrant_vaults:vibrant_stock_links"
+    }
+  ],
+  "result": {
+    "id": "minecraft:copper_ingot"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

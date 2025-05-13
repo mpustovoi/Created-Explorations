@@ -1,0 +1,45 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_nugget"
+    },
+    {
+      "item": "minecraft:iron_nugget"
+    },
+    {
+      "item": "minecraft:iron_nugget"
+    },
+    {
+      "item": "minecraft:iron_nugget"
+    },
+    {
+      "item": "minecraft:iron_nugget"
+    },
+    {
+      "item": "minecraft:calcite"
+    },
+    {
+      "item": "minecraft:calcite"
+    },
+    {
+      "item": "minecraft:coal"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 150,
+      "fluid": "minecraft:lava"
+    }
+  ],
+  "results": [
+    {
+      "id": "create_d2d:dolomite"
+    },
+    {
+      "id": "create_d2d:dolomite"
+    },
+    {
+      "id": "create_d2d:dolomite"
+    }
+  ]
+}

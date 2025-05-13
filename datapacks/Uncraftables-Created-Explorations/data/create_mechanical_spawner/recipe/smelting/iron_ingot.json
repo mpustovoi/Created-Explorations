@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "group": "iron_ingot",
+  "ingredient": [
+    {
+      "item": "create_mechanical_spawner:reinforced_brass_casing"
+    }
+  ],
+  "result": {
+    "id": "minecraft:iron_ingot"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

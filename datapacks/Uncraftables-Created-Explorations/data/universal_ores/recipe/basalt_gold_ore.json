@@ -1,20 +1,30 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "MMM",
-        "MSM",
-        "MMM"
-    ],
-    "key": {
-        "M": {
-            "item": "minecraft:gold_nugget"
-        },
-        "S": {
-            "item": "minecraft:basalt"
-        }
-    },
-    "result": {
-        "count": 1,
-        "id": "universal_ores:basalt_gold_ore"
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": ["createsifter"]
     }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "createsifter"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["NNN", "RSR", "NNN"],
+  "key": {
+    "R": {
+      "item": "minecraft:raw_gold"
+    },
+    "N": {
+      "item": "createsifter:raw_gold_piece"
+    },
+    "S": {
+      "item": "minecraft:basalt"
+    }
+  },
+  "result": {
+    "id": "universal_ores:basalt_gold_ore"
+  }
 }

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smelting",
+  "group": "iron_nugget",
+  "ingredient": [
+    {
+      "item": "create_pattern_schematics:empty_pattern_schematic"
+    },
+    {
+      "item": "create_pattern_schematics:pattern_schematic"
+    }
+  ],
+  "result": {
+    "id": "minecraft:iron_nugget"
+  },
+  "experience": 0.0,
+  "cookingtime": 200
+}

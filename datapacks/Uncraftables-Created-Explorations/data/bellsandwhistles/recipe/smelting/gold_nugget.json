@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "group": "gold_block",
+  "ingredient": [
+    {
+      "item": "bellsandwhistles:polished_ochrum_pilot"
+    }
+  ],
+  "result": {
+    "id": "minecraft:gold_block"
+  },
+  "experience": 0.0,
+  "cookingtime": 200
+}

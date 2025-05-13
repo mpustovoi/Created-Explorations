@@ -1,4 +1,10 @@
 {
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
   "type": "create:mixing",
   "ingredients": [
     {
@@ -23,5 +29,5 @@
       "count": 10
     }
   ],
-  "heatRequirement": "none"
+  "heat_requirement": "none"
 }

@@ -1,0 +1,22 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:basalt"
+    }
+  ],
+  "processing_time": 400,
+  "results": [
+    {
+      "count": 1,
+      "id": "createsifter:basalt_pebble"
+    },
+    {
+      "chance": 0.5,
+      "id": "createsifter:basalt_pebble"
+    },
+    {
+      "id": "createsifter:crushed_basalt"
+    }
+  ]
+}

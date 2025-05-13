@@ -1,15 +1,15 @@
 {
-    "type": "minecraft:smithing_transform",
-    "base": {
-        "item": "minecraft:command_block"
-    },
-    "addition": {
-        "item": "minecraft:repeater"
-    },
-    "result": {
-        "id": "minecraft:repeating_command_block"
-    },
-    "template": {
-        "item": "minecraft:redstone_torch"
-    }
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "tag": "uncraftable:command_blocks"
+  },
+  "addition": {
+    "item": "minecraft:repeater"
+  },
+  "result": {
+    "id": "minecraft:repeating_command_block"
+  },
+  "template": {
+    "item": "minecraft:redstone_torch"
+  }
 }

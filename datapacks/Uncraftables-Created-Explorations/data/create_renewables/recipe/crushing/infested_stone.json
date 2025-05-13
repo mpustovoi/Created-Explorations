@@ -1,0 +1,14 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:infested_stone"
+    }
+  ],
+  "processing_time": 125,
+  "results": [
+    {
+      "id": "minecraft:infested_cobblestone"
+    }
+  ]
+}

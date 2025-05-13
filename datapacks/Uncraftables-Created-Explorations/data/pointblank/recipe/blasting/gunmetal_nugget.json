@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:blasting",
+  "group": "gunmetal_nugget",
+  "ingredient": [
+    {
+      "tag": "pointblank:attachments/barrel"
+    },
+    {
+      "tag": "pointblank:attachments/grips"
+    },
+    {
+      "tag": "pointblank:attachments/scopes"
+    },
+    {
+      "tag": "pointblank:attachments/sights"
+    },
+    {
+      "tag": "pointblank:attachments/sniper_scopes"
+    },
+    {
+      "tag": "pointblank:attachments/stocks"
+    },
+    {
+      "item": "pointblank:guninternals"
+    }
+  ],
+  "result": {
+    "id": "pointblank:gunmetal_nugget"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:smelting",
+  "group": "iron_nugget",
+  "ingredient": [
+    {
+      "item": "create_vibrant_vaults:vertical_item_vault"
+    },
+    {
+      "tag": "create_vibrant_vaults:vibrant_vaults"
+    },
+    {
+      "tag": "create_vibrant_vaults:vibrant_frogports"
+    },
+    {
+      "tag": "create_vibrant_vaults:vibrant_packagers"
+    },
+    {
+      "tag": "create_vibrant_vaults:vibrant_redstone_requesters"
+    }
+  ],
+  "result": {
+    "id": "minecraft:iron_nugget"
+  },
+  "experience": 0.0,
+  "cookingtime": 200
+}

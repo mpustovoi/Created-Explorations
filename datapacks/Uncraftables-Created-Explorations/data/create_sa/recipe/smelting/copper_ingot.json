@@ -6,10 +6,10 @@
       "item": "create_sa:copper_jetpack_chestplate"
     },
     {
-      "item": "create_sa:copper_exoskeleton_chestplate"
+      "item": "create_sa:block_picker"
     },
     {
-      "item": "create_sa:block_picker"
+      "item": "create_sa:drone_controller"
     }
   ],
   "result": {

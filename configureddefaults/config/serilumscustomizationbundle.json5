@@ -28,7 +28,7 @@
 	// If the bundled Set World Spawn Point mod should be enabled.
 	"enableSetWorldSpawnPoint": false,
 	// If the bundled Simple Menu mod should be enabled.
-	"enableSimpleMenu": true,
+	"enableSimpleMenu": false,
 	// If the bundled Starter Kit mod should be enabled.
 	"enableStarterKit": true,
 	// If the bundled Starter Structure mod should be enabled.

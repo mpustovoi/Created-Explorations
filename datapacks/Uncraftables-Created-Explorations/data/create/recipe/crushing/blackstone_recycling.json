@@ -1,0 +1,46 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": ["create_d2d", "createsifter"]
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create_d2d"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "createsifter"
+    }
+  ],
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "create_d2d:stone_types/blackstone"
+    }
+  ],
+  "processing_time": 450,
+  "results": [
+    {
+      "count": 2,
+      "id": "createsifter:blackstone_pebble"
+    },
+    {
+      "chance": 0.5,
+      "id": "createsifter:blackstone_pebble"
+    },
+    {
+      "id": "createsifter:basalt_pebble"
+    },
+    {
+      "chance": 0.25,
+      "id": "createsifter:basalt_pebble"
+    },
+    {
+      "chance": 0.75,
+      "id": "create_d2d:coal_piece"
+    }
+  ]
+}

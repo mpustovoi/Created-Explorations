@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:smelting",
+  "group": "electrum_nugget",
+  "ingredient": [
+    {
+      "item": "createaddition:electrum_wire"
+    },
+    {
+      "item": "createaddition:electrum_spool"
+    },
+    {
+      "item": "createaddition:electrum_rod"
+    },
+    {
+      "item": "createaddition:electrum_sheet"
+    },
+    {
+      "item": "createaddition:electrum_amulet"
+    }
+  ],
+  "result": {
+    "id": "createaddition:electrum_nugget"
+  },
+  "experience": 0.0,
+  "cookingtime": 200
+}

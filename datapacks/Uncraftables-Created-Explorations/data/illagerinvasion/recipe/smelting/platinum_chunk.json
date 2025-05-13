@@ -1,0 +1,30 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": ["create", "create_aquatic_ambitions"]
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "createsifter"
+    }
+  ],
+  "type": "minecraft:smelting",
+  "group": "platinum_chunk",
+  "ingredient": [
+    {
+      "item": "createsifter:raw_platinum_piece"
+    }
+  ],
+  "result": {
+    "id": "illagerinvasion:platinum_chunk"
+  },
+  "experience": 0.0,
+  "cookingtime": 200
+}

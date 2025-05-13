@@ -6,6 +6,9 @@
       "item": "createcasing:industrial_iron_gearbox"
     },
     {
+      "item": "createcasing:vertical_industrial_iron_gearbox"
+    },
+    {
       "item": "createcasing:industrial_iron_mixer"
     },
     {
@@ -18,6 +21,9 @@
       "item": "createcasing:industrial_iron_encased_chain_drive"
     },
     {
+      "item": "createcasing:industrial_iron_adjustable_chain_gearshift"
+    },
+    {
       "item": "createcasing:industrial_iron_configurable_gearbox"
     }
   ],
@@ -25,5 +31,5 @@
     "id": "minecraft:iron_nugget"
   },
   "experience": 0.0,
-  "cookingtime": 20
+  "cookingtime": 200
 }

@@ -1,19 +1,30 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "GGG",
-        "GNG",
-        "GGG"
-    ],
-    "key": {
-        "G": {
-            "item": "minecraft:gold_nugget"
-        },
-        "N": {
-            "item": "minecraft:netherrack"
-        }
-    },
-    "result": {
-        "id": "minecraft:nether_gold_ore"
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": ["createsifter"]
     }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "createsifter"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["GGG", "RNR", "GGG"],
+  "key": {
+    "R": {
+      "item": "minecraft:raw_gold"
+    },
+    "G": {
+      "item": "createsifter:raw_gold_piece"
+    },
+    "N": {
+      "item": "minecraft:netherrack"
+    }
+  },
+  "result": {
+    "id": "minecraft:nether_gold_ore"
+  }
 }
