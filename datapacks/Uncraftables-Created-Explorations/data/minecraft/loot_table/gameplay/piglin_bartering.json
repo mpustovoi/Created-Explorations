@@ -429,21 +429,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:saddle",
-          "weight": 5,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:uniform",
-                "min": 1,
-                "max": 2
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
           "name": "minecraft:gold_block",
           "weight": 5,
           "functions": [
