@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "crabbersdelight:crab"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "crabbersdelight:crab_claw",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance_with_enchanted_bonus",
+              "unenchanted_chance": 0.2,
+              "enchantment": "minecraft:looting",
+              "enchanted_chance": 0.4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
