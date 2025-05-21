@@ -7,6 +7,12 @@
     },
     {
       "item": "create:rose_quartz_lamp"
+    },
+    {
+      "item": "create:copycat_step"
+    },
+    {
+      "item": "create:copycat_panel"
     }
   ],
   "result": {

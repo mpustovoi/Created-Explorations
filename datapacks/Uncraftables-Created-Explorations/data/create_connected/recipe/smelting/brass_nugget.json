@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:smelting",
+  "group": "brass_nugget",
+  "ingredient": [
+    {
+      "item": "create_connected:brass_gearbox"
+    },
+    {
+      "item": "create_connected:vertical_brass_gearbox"
+    },
+    {
+      "item": "create_connected:empty_fan_catalyst"
+    },
+    {
+      "item": "create_connected:fan_blasting_catalyst"
+    },
+    {
+      "item": "create_connected:fan_smoking_catalyst"
+    },
+    {
+      "item": "create_connected:fan_splashing_catalyst"
+    },
+    {
+      "item": "create_connected:fan_haunting_catalyst"
+    }
+  ],
+  "result": {
+    "id": "create:brass_nugget"
+  },
+  "experience": 0.0,
+  "cookingtime": 200
+}

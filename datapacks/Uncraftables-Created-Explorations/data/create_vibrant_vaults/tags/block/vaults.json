@@ -1,0 +1,8 @@
+{
+  "values": [
+    {
+      "id": "create_connected:item_silo",
+      "required": false
+    }
+  ]
+}

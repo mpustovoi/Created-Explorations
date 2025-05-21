@@ -48,7 +48,7 @@ explosionDestroyBlocksEnabled = true
 #Sets the probability of dropping some item(s) by monster mobs.
 # Default: 0.35
 # Range: 0.0 ~ 1.0
-itemDropChance = 0.01
+itemDropChance = 0.0
 #Sets the max count of items to be dropped by a monster mob.
 # Default: 7
 # Range: 2 ~ 64

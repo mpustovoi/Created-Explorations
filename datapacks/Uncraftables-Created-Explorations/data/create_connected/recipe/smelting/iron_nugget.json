@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:smelting",
+  "group": "iron_nugget",
+  "ingredient": [
+    {
+      "item": "create_connected:overstress_clutch"
+    },
+    {
+      "item": "create_connected:centrifugal_clutch"
+    },
+    {
+      "item": "create_connected:freewheel_clutch"
+    },
+    {
+      "item": "create_connected:centrifugal_clutch"
+    },
+    {
+      "item": "create_connected:inventory_access_port"
+    },
+    {
+      "item": "create_connected:inventory_bridge"
+    },
+    {
+      "item": "create_connected:sequenced_pulse_generator"
+    }
+  ],
+  "result": {
+    "id": "minecraft:iron_nugget"
+  },
+  "experience": 0.0,
+  "cookingtime": 200
+}
