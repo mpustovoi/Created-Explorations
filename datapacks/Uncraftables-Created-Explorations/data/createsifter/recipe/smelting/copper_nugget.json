@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "group": "copper_nugget",
+  "ingredient": [
+    {
+      "item": "createsifter:raw_copper_piece"
+    }
+  ],
+  "result": {
+    "id": "createsifter:copper_nugget"
+  },
+  "experience": 0.0,
+  "cookingtime": 200
+}

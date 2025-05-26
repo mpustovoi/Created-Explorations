@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:blasting",
+  "group": "gold_nugget",
+  "ingredient": [
+    {
+      "item": "createsifter:raw_gold_piece"
+    }
+  ],
+  "result": {
+    "id": "minecraft:gold_nugget"
+  },
+  "experience": 0.0,
+  "cookingtime": 100
+}
