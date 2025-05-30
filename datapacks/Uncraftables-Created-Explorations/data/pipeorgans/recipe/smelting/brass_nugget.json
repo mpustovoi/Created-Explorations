@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smelting",
+  "group": "brass_nugget",
+  "ingredient": [
+    {
+      "item": "pipeorgans:brass_boot"
+    },
+    {
+      "item": "pipeorgans:trompette"
+    }
+  ],
+  "result": {
+    "id": "create:brass_nugget"
+  },
+  "experience": 0.0,
+  "cookingtime": 200
+}

@@ -22,6 +22,15 @@
     },
     {
       "item": "create_connected:fan_haunting_catalyst"
+    },
+    {
+      "item": "create_connected:kinetic_bridge"
+    },
+    {
+      "item": "create_connected:kinetic_battery"
+    },
+    {
+      "item": "create_connected:charged_kinetic_battery"
     }
   ],
   "result": {

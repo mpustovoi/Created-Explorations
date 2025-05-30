@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "group": "copper_block",
+  "ingredient": [
+    {
+      "item": "createbionics:anole"
+    }
+  ],
+  "result": {
+    "id": "minecraft:copper_block"
+  },
+  "experience": 1.0,
+  "cookingtime": 1800
+}

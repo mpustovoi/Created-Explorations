@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:smelting",
+  "group": "copper_nugget",
+  "ingredient": [
+    {
+      "item": "pipeorgans:base"
+    },
+    {
+      "item": "pipeorgans:copper_boot"
+    },
+    {
+      "item": "pipeorgans:gedeckt"
+    },
+    {
+      "item": "pipeorgans:nasard"
+    },
+    {
+      "item": "pipeorgans:subbass"
+    },
+    {
+      "item": "pipeorgans:posaune"
+    },
+    {
+      "item": "pipeorgans:vox_humana"
+    },
+    {
+      "item": "pipeorgans:windchest"
+    }
+  ],
+  "result": {
+    "id": "create:copper_nugget"
+  },
+  "experience": 0.0,
+  "cookingtime": 200
+}

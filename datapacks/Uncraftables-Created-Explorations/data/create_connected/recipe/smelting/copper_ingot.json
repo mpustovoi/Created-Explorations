@@ -4,6 +4,9 @@
   "ingredient": [
     {
       "item": "create_connected:linked_transmitter"
+    },
+    {
+      "item": "create_connected:redstone_link_wildcard"
     }
   ],
   "result": {
