@@ -74,11 +74,7 @@
     "announce_to_chat": true,
     "hidden": false
   },
-  "requirements": [
-    [
-      "pillager_outpost"
-    ]
-  ],
+  "requirements": [["pillager_outpost"]],
   "sends_telemetry_event": true,
   "rewards": {
     "experience": 125

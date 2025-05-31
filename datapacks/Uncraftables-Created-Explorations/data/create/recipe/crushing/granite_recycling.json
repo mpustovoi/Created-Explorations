@@ -1,4 +1,10 @@
 {
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "createsifter"
+    }
+  ],
   "type": "create:crushing",
   "ingredients": [
     {
@@ -21,7 +27,7 @@
     },
     {
       "chance": 0.05,
-      "id": "create:crushed_raw_copper"
+      "id": "createsifter:raw_copper_piece"
     }
   ]
 }

@@ -32,11 +32,7 @@
       "fallback": "Temple Run"
     }
   },
-  "requirements": [
-    [
-      "jungle_pyramid"
-    ]
-  ],
+  "requirements": [["jungle_pyramid"]],
   "sends_telemetry_event": true,
   "rewards": {
     "experience": 200

@@ -36,11 +36,7 @@
     "announce_to_chat": true,
     "hidden": true
   },
-  "requirements": [
-    [
-      "trail_ruins"
-    ]
-  ],
+  "requirements": [["trail_ruins"]],
   "sends_telemetry_event": true,
   "rewards": {
     "experience": 250

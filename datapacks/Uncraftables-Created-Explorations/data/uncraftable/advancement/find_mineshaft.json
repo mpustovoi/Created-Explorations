@@ -31,11 +31,7 @@
       }
     }
   },
-  "requirements": [
-    [
-      "mineshaft"
-    ]
-  ],
+  "requirements": [["mineshaft"]],
   "rewards": {
     "experience": 50
   }

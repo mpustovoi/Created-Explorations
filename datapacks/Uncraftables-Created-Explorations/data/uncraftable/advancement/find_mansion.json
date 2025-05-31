@@ -35,11 +35,7 @@
     "announce_to_chat": true,
     "hidden": true
   },
-  "requirements": [
-    [
-      "mansion"
-    ]
-  ],
+  "requirements": [["mansion"]],
   "sends_telemetry_event": true,
   "rewards": {
     "experience": 750

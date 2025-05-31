@@ -35,11 +35,7 @@
     "announce_to_chat": true,
     "hidden": true
   },
-  "requirements": [
-    [
-      "ancient_city"
-    ]
-  ],
+  "requirements": [["ancient_city"]],
   "sends_telemetry_event": true,
   "rewards": {
     "experience": 750

@@ -38,7 +38,7 @@
     },
     {
       "chance": 0.05,
-      "id": "create:crushed_raw_copper"
+      "id": "createsifter:raw_copper_piece"
     },
     {
       "chance": 0.05,

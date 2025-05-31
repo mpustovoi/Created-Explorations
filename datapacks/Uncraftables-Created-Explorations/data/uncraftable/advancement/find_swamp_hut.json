@@ -32,11 +32,7 @@
       "fallback": "Flying on a Broomstick"
     }
   },
-  "requirements": [
-    [
-      "swamp_hut"
-    ]
-  ],
+  "requirements": [["swamp_hut"]],
   "sends_telemetry_event": true,
   "rewards": {
     "experience": 75
