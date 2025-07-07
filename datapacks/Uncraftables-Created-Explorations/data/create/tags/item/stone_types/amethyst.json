@@ -1,0 +1,29 @@
+{
+  "values": [
+    "minecraft:budding_amethyst",
+    {
+      "id": "blockbox:polished_amethyst",
+      "required": false
+    },
+    {
+      "id": "blockbox:cut_amethyst",
+      "required": false
+    },
+    {
+      "id": "blockbox:cut_amethyst_stairs",
+      "required": false
+    },
+    {
+      "id": "blockbox:amethyst_mosaic",
+      "required": false
+    },
+    {
+      "id": "blockbox:amethyst_mosaic_stairs",
+      "required": false
+    },
+    {
+      "id": "#dndecor:stone_types/amethyst",
+      "required": false
+    }
+  ]
+}

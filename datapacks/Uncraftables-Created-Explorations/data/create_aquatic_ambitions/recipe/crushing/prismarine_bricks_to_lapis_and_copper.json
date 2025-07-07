@@ -19,22 +19,19 @@
   ],
   "results": [
     {
+      "id": "minecraft:lapis_lazuli",
+      "chance": 0.9
+    },
+    {
       "id": "create:experience_nugget",
       "count": 2
     },
     {
       "id": "create:experience_nugget",
-      "count": 1,
       "chance": 0.25
     },
     {
-      "id": "minecraft:lapis_lazuli",
-      "count": 1,
-      "chance": 0.9
-    },
-    {
       "id": "createsifter:raw_copper_piece",
-      "count": 1,
       "chance": 0.125
     }
   ]

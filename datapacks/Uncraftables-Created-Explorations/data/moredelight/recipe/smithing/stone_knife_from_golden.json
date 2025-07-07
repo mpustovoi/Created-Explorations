@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "moredelight:wooden_knife"
+  },
+  "addition": {
+    "item": "minecraft:stone"
+  },
+  "result": {
+    "id": "moredelight:stone_knife"
+  },
+  "template": {
+    "item": "minecraft:stone"
+  }
+}

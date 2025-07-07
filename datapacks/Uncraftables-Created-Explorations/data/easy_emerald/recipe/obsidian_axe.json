@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "easy_emeralds",
+  "key": {
+    "a": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "b": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "pattern": [
+    "aa",
+    "ab",
+    " b"
+  ],
+  "result": {
+    "count": 1,
+    "id": "easy_emerald:obsidian_axe"
+  }
+}

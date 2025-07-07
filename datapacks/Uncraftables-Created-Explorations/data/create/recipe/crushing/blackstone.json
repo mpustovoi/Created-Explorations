@@ -2,13 +2,13 @@
   "fabric:load_conditions": [
     {
       "condition": "fabric:all_mods_loaded",
-      "values": ["create_d2d", "createsifter"]
+      "values": ["dndesires", "createsifter"]
     }
   ],
   "neoforge:conditions": [
     {
       "type": "neoforge:mod_loaded",
-      "modid": "create_d2d"
+      "modid": "dndesires"
     },
     {
       "type": "neoforge:mod_loaded",
@@ -40,7 +40,7 @@
     },
     {
       "chance": 0.75,
-      "id": "create_d2d:coal_piece"
+      "id": "dndesires:coal_piece"
     }
   ]
 }

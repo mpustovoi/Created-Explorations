@@ -1,5 +1,17 @@
 [
   {
+    "item": "brewinandchewin:steel_toe_stout",
+    "duration": 20
+  },
+  {
+    "item": "brewinandchewin:strongroot_ale",
+    "duration": 10
+  },
+  {
+    "item": "easy_emerald:emerald_potato",
+    "duration": 30
+  },
+  {
     "item": "ends_delight:assorted_salad",
     "duration": 20
   },
@@ -14,6 +26,10 @@
   {
     "item": "ends_delight:dragon_breath_and_chorus_soup",
     "duration": 80
+  },
+  {
+    "item": "ends_delight:dragon_breath_soda",
+    "duration": 20
   },
   {
     "item": "ends_delight:dragon_leg_with_sauce",
@@ -89,7 +105,7 @@
   },
   {
     "item": "minecraft:enchanted_golden_apple",
-    "duration": 80
+    "duration": 100
   },
   {
     "item": "minecraft:golden_apple",
@@ -104,7 +120,23 @@
     "duration": 10
   },
   {
+    "item": "mynethersdelight:enchanted_golden_egg",
+    "duration": 20
+  },
+  {
     "item": "mynethersdelight:ghast_salad",
     "duration": 30
+  },
+  {
+    "item": "mynethersdelight:golden_egg",
+    "duration": 10
+  },
+  {
+    "item": "mynethersdelight:hotdog_with_mixed_salad",
+    "duration": 5
+  },
+  {
+    "item": "mynethersdelight:tear_popsicle",
+    "duration": 10
   }
 ]

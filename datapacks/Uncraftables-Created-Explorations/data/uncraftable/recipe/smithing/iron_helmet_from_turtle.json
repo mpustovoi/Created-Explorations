@@ -1,15 +1,15 @@
 {
-    "type": "minecraft:smithing_transform",
-    "base": {
-        "item": "minecraft:turtle_helmet"
-    },
-    "addition": {
-        "item": "minecraft:iron_ingot"
-    },
-    "result": {
-        "id": "minecraft:iron_helmet"
-    },
-    "template": {
-        "item": "minecraft:iron_ingot"
-    }
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:turtle_helmet"
+  },
+  "addition": {
+    "item": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "minecraft:iron_helmet"
+  },
+  "template": {
+    "item": "minecraft:iron_ingot"
+  }
 }

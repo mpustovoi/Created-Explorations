@@ -9,11 +9,16 @@ migrateCopycatsOnInitialize = true
 #Enable/disable features. Values on server override clients
 [features]
 	item_silo = false
+	brass_gearbox = false
 	#.
+	kinetic_bridge = true
 	fluid_vessel = true
+	cross_connector = true
 	inverted_clutch = true
 	empty_fan_catalyst = true
 	parallel_gearbox = true
+	redstone_link_wildcard = true
+	kinetic_battery = true
 	inventory_access_port = true
 	centrifugal_clutch = true
 	copycat_slab = true
@@ -23,7 +28,6 @@ migrateCopycatsOnInitialize = true
 	copycat_fence_gate = true
 	copycat_stairs = true
 	large_crank_wheel = true
-	brass_gearbox = true
 	copycat_vertical_step = true
 	copycat_wall = true
 	six_way_gearbox = true

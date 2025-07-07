@@ -60,7 +60,7 @@
 	*/
 	"amethystDurability": 156,
 	"amethystMiningSpeed": 10.5,
-	"amethystAttackDamage": 3.0,
+	"amethystAttackDamage": 3.25,
 	"amethystSwordAttackDamage": 3,
 	"amethystAxeAttackDamage": 5,
 	"amethystEnchantability": 30,
@@ -170,12 +170,12 @@
 	   OBSIDIAN TOOL MATERIAL
 	   ******************************
 	*/
-	"obsidianDurability": 2539,
-	"obsidianMiningSpeed": 6.5,
-	"obsidianAttackDamage": 7.0,
+	"obsidianDurability": 3047,
+	"obsidianMiningSpeed": 7.0,
+	"obsidianAttackDamage": 4.5,
 	"obsidianSwordAttackDamage": 3,
 	"obsidianAxeAttackDamage": 6,
-	"obsidianEnchantability": 8,
+	"obsidianEnchantability": 12,
 	/* 
 	   
 	   
@@ -184,11 +184,11 @@
 	   ******************************
 	*/
 	"obsidianDurabilityMultiplier": 48,
-	"obsidianArmorEnchantability": 8,
+	"obsidianArmorEnchantability": 12,
 	"obsidianToughness": 4.0,
-	"obsidianKnockbackResistance": 0.4000000059604645,
-	"obsidianHelmetProtection": 5,
-	"obsidianChestProtection": 10,
-	"obsidianLeggingsProtection": 8,
-	"obsidianBootsProtection": 4
+	"obsidianKnockbackResistance": 0.5,
+	"obsidianHelmetProtection": 2,
+	"obsidianChestProtection": 6,
+	"obsidianLeggingsProtection": 5,
+	"obsidianBootsProtection": 2
 }

@@ -1,0 +1,69 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": ["create"]
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "minecraft:logs_that_burn"
+    },
+    {
+      "tag": "minecraft:logs_that_burn"
+    },
+    {
+      "tag": "minecraft:logs_that_burn"
+    },
+    {
+      "tag": "minecraft:logs_that_burn"
+    },
+    {
+      "tag": "minecraft:logs_that_burn"
+    },
+    {
+      "tag": "minecraft:logs_that_burn"
+    },
+    {
+      "tag": "minecraft:logs_that_burn"
+    },
+    {
+      "item": "minecraft:bone_meal"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 1000,
+      "fluid": "minecraft:water"
+    }
+  ],
+  "results": [
+    {
+      "id": "betterarcheology:rotten_log"
+    },
+    {
+      "id": "betterarcheology:rotten_log"
+    },
+    {
+      "id": "betterarcheology:rotten_log"
+    },
+    {
+      "id": "betterarcheology:rotten_log"
+    },
+    {
+      "id": "betterarcheology:rotten_log"
+    },
+    {
+      "id": "betterarcheology:rotten_log"
+    },
+    {
+      "id": "betterarcheology:rotten_log"
+    }
+  ]
+}

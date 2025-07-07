@@ -1,0 +1,40 @@
+{
+  "parent": "minecraft:adventure/kill_a_mob",
+  "display": {
+    "icon": {
+      "id": "weeping_angels:chronodyne_generator"
+    },
+    "title": {
+      "translate": "advancements.weeping_angels.kill_angel.title",
+      "fallback": "Abnormality Eliminated",
+      "color": "gray"
+    },
+    "description": {
+      "translate": "advancements.weeping_angels.kill_angel.descr",
+      "fallback": "Kill a Weeping Angel"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_angel": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "weeping_angels:weeping_angel"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 300
+  }
+}

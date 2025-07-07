@@ -1,17 +1,36 @@
 {
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "vanilla_tweaks:terracotta"
+    },
+    {
+      "tag": "vanilla_tweaks:terracotta"
+    },
+    {
+      "tag": "vanilla_tweaks:terracotta"
+    },
+    {
+      "tag": "vanilla_tweaks:terracotta"
+    },
+    {
+      "tag": "vanilla_tweaks:terracotta"
+    },
+    {
+      "tag": "vanilla_tweaks:terracotta"
+    },
+    {
+      "tag": "vanilla_tweaks:terracotta"
+    },
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "tag": "vanilla_tweaks:terracotta"
+    }
+  ],
   "result": {
     "id": "minecraft:terracotta",
     "count": 8
-  },
-  "type": "crafting_shaped",
-  "pattern": ["###", "#O#", "###"],
-  "key": {
-    "#": {
-      "tag": "vanilla_tweaks:terracotta"
-    },
-    "O": {
-      "item": "minecraft:water_bucket"
-    }
-  },
-  "group": ""
+  }
 }

@@ -10,6 +10,6 @@
     "id": "betterarcheology:diamond_brush"
   },
   "template": {
-    "item": "minecraft:iron_nugget"
+    "item": "minecraft:diamond"
   }
 }

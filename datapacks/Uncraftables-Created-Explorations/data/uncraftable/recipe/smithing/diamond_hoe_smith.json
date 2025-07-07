@@ -1,15 +1,15 @@
 {
-    "type": "minecraft:smithing_transform",
-    "base": {
-        "item": "minecraft:iron_hoe"
-    },
-    "addition": {
-        "item": "minecraft:diamond_block"
-    },
-    "result": {
-        "id": "minecraft:diamond_hoe"
-    },
-    "template": {
-        "item": "minecraft:diamond"
-    }
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:iron_hoe"
+  },
+  "addition": {
+    "item": "minecraft:diamond_block"
+  },
+  "result": {
+    "id": "minecraft:diamond_hoe"
+  },
+  "template": {
+    "item": "minecraft:diamond"
+  }
 }

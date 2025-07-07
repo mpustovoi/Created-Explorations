@@ -1,0 +1,72 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": ["create"]
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "vanilla_tweaks:terracotta"
+    },
+    {
+      "tag": "vanilla_tweaks:terracotta"
+    },
+    {
+      "tag": "vanilla_tweaks:terracotta"
+    },
+    {
+      "tag": "vanilla_tweaks:terracotta"
+    },
+    {
+      "tag": "vanilla_tweaks:terracotta"
+    },
+    {
+      "tag": "vanilla_tweaks:terracotta"
+    },
+    {
+      "tag": "vanilla_tweaks:terracotta"
+    },
+    {
+      "tag": "vanilla_tweaks:terracotta"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 500,
+      "fluid": "minecraft:water"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:terracotta"
+    },
+    {
+      "id": "minecraft:terracotta"
+    },
+    {
+      "id": "minecraft:terracotta"
+    },
+    {
+      "id": "minecraft:terracotta"
+    },
+    {
+      "id": "minecraft:terracotta"
+    },
+    {
+      "id": "minecraft:terracotta"
+    },
+    {
+      "id": "minecraft:terracotta"
+    },
+    {
+      "id": "minecraft:terracotta"
+    }
+  ]
+}

@@ -9,13 +9,6 @@
     {
       "type": "neoforge:mod_loaded",
       "modid": "createsifter"
-    },
-    {
-      "type": "neoforge:not",
-      "value": {
-        "type": "neoforge:mod_loaded",
-        "modid": "exnihilosequentia"
-      }
     }
   ],
   "type": "create:crushing",

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "easy_emeralds",
+  "key": {
+    "a": {
+      "item": "easy_emerald:obsidian_axe"
+    },
+    "b": {
+      "item": "easy_emerald:obsidian_shovel"
+    },
+    "c": {
+      "item": "easy_emerald:obsidian_pickaxe"
+    },
+    "d": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "pattern": [
+    "abc",
+    " d ",
+    " d "
+  ],
+  "result": {
+    "count": 1,
+    "id": "easy_emerald:obsidian_paxel"
+  }
+}

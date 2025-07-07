@@ -1,17 +1,36 @@
 {
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "vanilla_tweaks:stained_glass_pane"
+    },
+    {
+      "tag": "vanilla_tweaks:stained_glass_pane"
+    },
+    {
+      "tag": "vanilla_tweaks:stained_glass_pane"
+    },
+    {
+      "tag": "vanilla_tweaks:stained_glass_pane"
+    },
+    {
+      "tag": "vanilla_tweaks:stained_glass_pane"
+    },
+    {
+      "tag": "vanilla_tweaks:stained_glass_pane"
+    },
+    {
+      "tag": "vanilla_tweaks:stained_glass_pane"
+    },
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "tag": "vanilla_tweaks:stained_glass_pane"
+    }
+  ],
   "result": {
     "id": "minecraft:glass_pane",
     "count": 8
-  },
-  "type": "crafting_shaped",
-  "pattern": ["###", "#O#", "###"],
-  "key": {
-    "#": {
-      "tag": "vanilla_tweaks:stained_glass_pane"
-    },
-    "O": {
-      "item": "minecraft:water_bucket"
-    }
-  },
-  "group": ""
+  }
 }

@@ -1,5 +1,5 @@
 {
-  "type": "minecraft:smelting",
+  "type": "minecraft:blasting",
   "group": "copper_nugget",
   "ingredient": [
     {
@@ -7,8 +7,8 @@
     }
   ],
   "result": {
-    "id": "createsifter:copper_nugget"
+    "id": "create:copper_nugget"
   },
   "experience": 0.0,
-  "cookingtime": 200
+  "cookingtime": 100
 }

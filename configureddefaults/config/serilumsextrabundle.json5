@@ -32,7 +32,7 @@
 	// If the bundled Hand Over Your Items mod should be enabled.
 	"enableHandOverYourItems": false,
 	// If the bundled Infinite Trading mod should be enabled.
-	"enableInfiniteTrading": true,
+	"enableInfiniteTrading": false,
 	// If the bundled Milk All The Mobs mod should be enabled.
 	"enableMilkAllTheMobs": false,
 	// If the bundled Name Tag Tweaks mod should be enabled.
